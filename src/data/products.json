@@ -1,0 +1,212 @@
+[
+  {
+    "id": 18,
+    "productCode": "W16031",
+    "productName": "Fresh Cassava Nakhon Ratchasima",
+    "category": "Cassava",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 17,
+    "productCode": "W16001",
+    "productName": "Cassava Chips Ayutthaya",
+    "category": "Cassava",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 30,
+    "productCode": "W15001",
+    "productName": "Dried Garlic Large Bulbs",
+    "category": "Condiments",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 9,
+    "productCode": "W17011",
+    "productName": "Imported Soybean Meal",
+    "category": "Feed",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 24,
+    "productCode": "W14021",
+    "productName": "Monthong Durian Wholesale",
+    "category": "Fruits",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 26,
+    "productCode": "W14020",
+    "productName": "Chanee Durian",
+    "category": "Fruits",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 28,
+    "productCode": "W14022",
+    "productName": "Mangosteen Smooth",
+    "category": "Fruits",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 27,
+    "productCode": "W14032",
+    "productName": "Longan Edor",
+    "category": "Fruits",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 25,
+    "productCode": "P14020",
+    "productName": "Monthong Durian Retail",
+    "category": "Fruits",
+    "saleType": "Retail"
+  },
+  {
+    "id": 10,
+    "productCode": "W16016",
+    "productName": "Feed Corn Silo Grade",
+    "category": "Grains",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 11,
+    "productCode": "W16035",
+    "productName": "Feed Corn Phetchabun",
+    "category": "Grains",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 23,
+    "productCode": "P11025",
+    "productName": "Eggs Size 0 Retail",
+    "category": "Livestock",
+    "saleType": "Retail"
+  },
+  {
+    "id": 22,
+    "productCode": "W11003",
+    "productName": "Live Pigs General Grade",
+    "category": "Livestock",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 21,
+    "productCode": "W11027",
+    "productName": "Mixed Eggs Wholesale",
+    "category": "Livestock",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 12,
+    "productCode": "W18053",
+    "productName": "Processing Soybeans",
+    "category": "Oilseeds",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 6,
+    "productCode": "W18020",
+    "productName": "CPO Grade A Palm Oil",
+    "category": "Palm Oil",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 7,
+    "productCode": "W18001",
+    "productName": "Palm FFB Mixed Quality",
+    "category": "Palm Oil",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 8,
+    "productCode": "W18003",
+    "productName": "Palm FFB Surat Thani",
+    "category": "Palm Oil",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 16,
+    "productCode": "R13001",
+    "productName": "Jasmine Rice Retail",
+    "category": "Rice",
+    "saleType": "Retail"
+  },
+  {
+    "id": 13,
+    "productCode": "R11029",
+    "productName": "Thai Hom Mali Rice Wholesale",
+    "category": "Rice",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 14,
+    "productCode": "R11001",
+    "productName": "White Rice 100% Wholesale",
+    "category": "Rice",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 15,
+    "productCode": "R11018",
+    "productName": "Glutinous Rice RD6",
+    "category": "Rice",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 2,
+    "productCode": "W16030",
+    "productName": "RSS3 FOB Laem Chabang",
+    "category": "Rubber",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 5,
+    "productCode": "W16036",
+    "productName": "Fresh Latex Songkhla",
+    "category": "Rubber",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 4,
+    "productCode": "W16023",
+    "productName": "Rubber Farmer Price Surat Thani",
+    "category": "Rubber",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 3,
+    "productCode": "W16027",
+    "productName": "Raw Rubber Sheet Songkhla",
+    "category": "Rubber",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 1,
+    "productCode": "W16033",
+    "productName": "RSS3 Smoked Rubber Songkhla",
+    "category": "Rubber",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 19,
+    "productCode": "W12001",
+    "productName": "White Shrimp 40ct",
+    "category": "Seafood",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 20,
+    "productCode": "W12017",
+    "productName": "Tilapia",
+    "category": "Seafood",
+    "saleType": "Wholesale"
+  },
+  {
+    "id": 29,
+    "productCode": "W13025",
+    "productName": "Lime Size 1-2",
+    "category": "Vegetables",
+    "saleType": "Wholesale"
+  }
+]

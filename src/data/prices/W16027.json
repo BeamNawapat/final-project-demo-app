@@ -1,0 +1,4534 @@
+{
+  "id": 3,
+  "productCode": "W16027",
+  "productName": "Raw Rubber Sheet Songkhla",
+  "category": "Rubber",
+  "saleType": "Wholesale",
+  "priceHistory": [
+    {
+      "date": "2020-01-01",
+      "priceMin": 38.9,
+      "priceMax": 38.9
+    },
+    {
+      "date": "2020-01-02",
+      "priceMin": 39.05,
+      "priceMax": 39.05
+    },
+    {
+      "date": "2020-01-05",
+      "priceMin": 39.45,
+      "priceMax": 39.45
+    },
+    {
+      "date": "2020-01-06",
+      "priceMin": 39.59,
+      "priceMax": 39.59
+    },
+    {
+      "date": "2020-01-07",
+      "priceMin": 40.07,
+      "priceMax": 40.07
+    },
+    {
+      "date": "2020-01-08",
+      "priceMin": 40.4,
+      "priceMax": 40.4
+    },
+    {
+      "date": "2020-01-09",
+      "priceMin": 40.55,
+      "priceMax": 40.55
+    },
+    {
+      "date": "2020-01-12",
+      "priceMin": 40.8,
+      "priceMax": 40.8
+    },
+    {
+      "date": "2020-01-13",
+      "priceMin": 41.2,
+      "priceMax": 41.2
+    },
+    {
+      "date": "2020-01-14",
+      "priceMin": 39.99,
+      "priceMax": 39.99
+    },
+    {
+      "date": "2020-01-15",
+      "priceMin": 41.53,
+      "priceMax": 41.53
+    },
+    {
+      "date": "2020-01-16",
+      "priceMin": 41.85,
+      "priceMax": 41.85
+    },
+    {
+      "date": "2020-01-19",
+      "priceMin": 41.95,
+      "priceMax": 41.95
+    },
+    {
+      "date": "2020-01-20",
+      "priceMin": 41.4,
+      "priceMax": 41.4
+    },
+    {
+      "date": "2020-01-21",
+      "priceMin": 41.05,
+      "priceMax": 41.05
+    },
+    {
+      "date": "2020-01-22",
+      "priceMin": 40.75,
+      "priceMax": 40.75
+    },
+    {
+      "date": "2020-01-23",
+      "priceMin": 40.5,
+      "priceMax": 40.5
+    },
+    {
+      "date": "2020-01-27",
+      "priceMin": 39.85,
+      "priceMax": 39.85
+    },
+    {
+      "date": "2020-01-28",
+      "priceMin": 40.3,
+      "priceMax": 40.3
+    },
+    {
+      "date": "2020-01-29",
+      "priceMin": 40.4,
+      "priceMax": 40.4
+    },
+    {
+      "date": "2020-01-30",
+      "priceMin": 40.6,
+      "priceMax": 40.6
+    },
+    {
+      "date": "2020-02-02",
+      "priceMin": 39.39,
+      "priceMax": 39.39
+    },
+    {
+      "date": "2020-02-03",
+      "priceMin": 39.6,
+      "priceMax": 39.6
+    },
+    {
+      "date": "2020-02-04",
+      "priceMin": 39.89,
+      "priceMax": 39.89
+    },
+    {
+      "date": "2020-02-05",
+      "priceMin": 40.29,
+      "priceMax": 40.29
+    },
+    {
+      "date": "2020-02-06",
+      "priceMin": 40.4,
+      "priceMax": 40.4
+    },
+    {
+      "date": "2020-02-10",
+      "priceMin": 40.44,
+      "priceMax": 40.44
+    },
+    {
+      "date": "2020-02-11",
+      "priceMin": 40.74,
+      "priceMax": 40.74
+    },
+    {
+      "date": "2020-02-12",
+      "priceMin": 40.8,
+      "priceMax": 40.8
+    },
+    {
+      "date": "2020-02-13",
+      "priceMin": 40.98,
+      "priceMax": 40.98
+    },
+    {
+      "date": "2020-02-16",
+      "priceMin": 41.25,
+      "priceMax": 41.25
+    },
+    {
+      "date": "2020-02-17",
+      "priceMin": 41.7,
+      "priceMax": 41.7
+    },
+    {
+      "date": "2020-02-18",
+      "priceMin": 41.9,
+      "priceMax": 41.9
+    },
+    {
+      "date": "2020-02-19",
+      "priceMin": 42.05,
+      "priceMax": 42.05
+    },
+    {
+      "date": "2020-02-20",
+      "priceMin": 43.29,
+      "priceMax": 43.29
+    },
+    {
+      "date": "2020-02-23",
+      "priceMin": 42.9,
+      "priceMax": 42.9
+    },
+    {
+      "date": "2020-02-25",
+      "priceMin": 41.75,
+      "priceMax": 41.75
+    },
+    {
+      "date": "2020-02-26",
+      "priceMin": 42,
+      "priceMax": 42
+    },
+    {
+      "date": "2020-02-27",
+      "priceMin": 41.42,
+      "priceMax": 41.42
+    },
+    {
+      "date": "2020-03-01",
+      "priceMin": 41.11,
+      "priceMax": 41.11
+    },
+    {
+      "date": "2020-03-02",
+      "priceMin": 42.05,
+      "priceMax": 42.05
+    },
+    {
+      "date": "2020-03-03",
+      "priceMin": 41.6,
+      "priceMax": 41.6
+    },
+    {
+      "date": "2020-03-04",
+      "priceMin": 41.83,
+      "priceMax": 41.83
+    },
+    {
+      "date": "2020-03-05",
+      "priceMin": 41.99,
+      "priceMax": 41.99
+    },
+    {
+      "date": "2020-03-08",
+      "priceMin": 40.88,
+      "priceMax": 40.88
+    },
+    {
+      "date": "2020-03-09",
+      "priceMin": 40.09,
+      "priceMax": 40.09
+    },
+    {
+      "date": "2020-03-10",
+      "priceMin": 41.49,
+      "priceMax": 41.49
+    },
+    {
+      "date": "2020-03-11",
+      "priceMin": 40.88,
+      "priceMax": 40.88
+    },
+    {
+      "date": "2020-03-12",
+      "priceMin": 41.39,
+      "priceMax": 41.39
+    },
+    {
+      "date": "2020-03-15",
+      "priceMin": 41.07,
+      "priceMax": 41.07
+    },
+    {
+      "date": "2020-03-16",
+      "priceMin": 40.95,
+      "priceMax": 40.95
+    },
+    {
+      "date": "2020-03-17",
+      "priceMin": 41.11,
+      "priceMax": 41.11
+    },
+    {
+      "date": "2020-03-18",
+      "priceMin": 40.21,
+      "priceMax": 40.21
+    },
+    {
+      "date": "2020-03-19",
+      "priceMin": 39.88,
+      "priceMax": 39.88
+    },
+    {
+      "date": "2020-03-22",
+      "priceMin": 38.95,
+      "priceMax": 38.95
+    },
+    {
+      "date": "2020-03-23",
+      "priceMin": 38.88,
+      "priceMax": 38.88
+    },
+    {
+      "date": "2020-03-24",
+      "priceMin": 38.88,
+      "priceMax": 38.88
+    },
+    {
+      "date": "2020-03-25",
+      "priceMin": 38.05,
+      "priceMax": 38.05
+    },
+    {
+      "date": "2020-03-26",
+      "priceMin": 38.35,
+      "priceMax": 38.35
+    },
+    {
+      "date": "2020-03-29",
+      "priceMin": 37.4,
+      "priceMax": 37.4
+    },
+    {
+      "date": "2020-03-30",
+      "priceMin": 36.9,
+      "priceMax": 36.9
+    },
+    {
+      "date": "2020-03-31",
+      "priceMin": 37.07,
+      "priceMax": 37.07
+    },
+    {
+      "date": "2020-04-01",
+      "priceMin": 36.55,
+      "priceMax": 36.55
+    },
+    {
+      "date": "2020-04-02",
+      "priceMin": 36.55,
+      "priceMax": 36.55
+    },
+    {
+      "date": "2020-04-06",
+      "priceMin": 36.45,
+      "priceMax": 36.45
+    },
+    {
+      "date": "2020-04-07",
+      "priceMin": 36.45,
+      "priceMax": 36.45
+    },
+    {
+      "date": "2020-04-08",
+      "priceMin": 37.35,
+      "priceMax": 37.35
+    },
+    {
+      "date": "2020-04-09",
+      "priceMin": 37.55,
+      "priceMax": 37.55
+    },
+    {
+      "date": "2020-04-12",
+      "priceMin": 37.55,
+      "priceMax": 37.55
+    },
+    {
+      "date": "2020-04-13",
+      "priceMin": 36.69,
+      "priceMax": 36.69
+    },
+    {
+      "date": "2020-04-14",
+      "priceMin": 37.49,
+      "priceMax": 37.49
+    },
+    {
+      "date": "2020-04-16",
+      "priceMin": 37.21,
+      "priceMax": 37.21
+    },
+    {
+      "date": "2020-04-19",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-04-23",
+      "priceMin": 37.59,
+      "priceMax": 37.59
+    },
+    {
+      "date": "2020-04-26",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-04-29",
+      "priceMin": 36.21,
+      "priceMax": 36.21
+    },
+    {
+      "date": "2020-05-06",
+      "priceMin": 37.03,
+      "priceMax": 37.03
+    },
+    {
+      "date": "2020-05-07",
+      "priceMin": 37.25,
+      "priceMax": 37.25
+    },
+    {
+      "date": "2020-05-11",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-05-13",
+      "priceMin": 37.59,
+      "priceMax": 37.59
+    },
+    {
+      "date": "2020-05-18",
+      "priceMin": 37.07,
+      "priceMax": 37.07
+    },
+    {
+      "date": "2020-05-21",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-05-25",
+      "priceMin": 37.59,
+      "priceMax": 37.59
+    },
+    {
+      "date": "2020-05-27",
+      "priceMin": 37.61,
+      "priceMax": 37.61
+    },
+    {
+      "date": "2020-06-03",
+      "priceMin": 37.91,
+      "priceMax": 37.91
+    },
+    {
+      "date": "2020-06-04",
+      "priceMin": 39.21,
+      "priceMax": 39.21
+    },
+    {
+      "date": "2020-06-10",
+      "priceMin": 39.3,
+      "priceMax": 39.3
+    },
+    {
+      "date": "2020-06-11",
+      "priceMin": 39.09,
+      "priceMax": 39.09
+    },
+    {
+      "date": "2020-06-15",
+      "priceMin": 39.05,
+      "priceMax": 39.05
+    },
+    {
+      "date": "2020-06-17",
+      "priceMin": 38.88,
+      "priceMax": 38.88
+    },
+    {
+      "date": "2020-06-18",
+      "priceMin": 39.01,
+      "priceMax": 39.01
+    },
+    {
+      "date": "2020-06-22",
+      "priceMin": 38.8,
+      "priceMax": 38.8
+    },
+    {
+      "date": "2020-06-24",
+      "priceMin": 39.02,
+      "priceMax": 39.02
+    },
+    {
+      "date": "2020-06-25",
+      "priceMin": 39.05,
+      "priceMax": 39.05
+    },
+    {
+      "date": "2020-06-28",
+      "priceMin": 39.25,
+      "priceMax": 39.25
+    },
+    {
+      "date": "2020-06-29",
+      "priceMin": 39.3,
+      "priceMax": 39.3
+    },
+    {
+      "date": "2020-07-01",
+      "priceMin": 39.25,
+      "priceMax": 39.25
+    },
+    {
+      "date": "2020-07-02",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-07-07",
+      "priceMin": 39.35,
+      "priceMax": 39.35
+    },
+    {
+      "date": "2020-07-08",
+      "priceMin": 39.29,
+      "priceMax": 39.29
+    },
+    {
+      "date": "2020-07-09",
+      "priceMin": 39.45,
+      "priceMax": 39.45
+    },
+    {
+      "date": "2020-07-12",
+      "priceMin": 39.5,
+      "priceMax": 39.5
+    },
+    {
+      "date": "2020-07-13",
+      "priceMin": 39.29,
+      "priceMax": 39.29
+    },
+    {
+      "date": "2020-07-15",
+      "priceMin": 39.99,
+      "priceMax": 39.99
+    },
+    {
+      "date": "2020-07-16",
+      "priceMin": 40.19,
+      "priceMax": 40.19
+    },
+    {
+      "date": "2020-07-19",
+      "priceMin": 40.45,
+      "priceMax": 40.45
+    },
+    {
+      "date": "2020-07-20",
+      "priceMin": 40.79,
+      "priceMax": 40.79
+    },
+    {
+      "date": "2020-07-21",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-07-22",
+      "priceMin": 41.56,
+      "priceMax": 41.56
+    },
+    {
+      "date": "2020-07-23",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-07-28",
+      "priceMin": 42.09,
+      "priceMax": 42.09
+    },
+    {
+      "date": "2020-07-29",
+      "priceMin": 42.65,
+      "priceMax": 42.65
+    },
+    {
+      "date": "2020-08-02",
+      "priceMin": 42.95,
+      "priceMax": 42.95
+    },
+    {
+      "date": "2020-08-03",
+      "priceMin": 43.55,
+      "priceMax": 43.55
+    },
+    {
+      "date": "2020-08-04",
+      "priceMin": 43.65,
+      "priceMax": 43.65
+    },
+    {
+      "date": "2020-08-05",
+      "priceMin": 44,
+      "priceMax": 44
+    },
+    {
+      "date": "2020-08-06",
+      "priceMin": 44.79,
+      "priceMax": 44.79
+    },
+    {
+      "date": "2020-08-13",
+      "priceMin": 47,
+      "priceMax": 47
+    },
+    {
+      "date": "2020-08-16",
+      "priceMin": 47.25,
+      "priceMax": 47.25
+    },
+    {
+      "date": "2020-08-17",
+      "priceMin": 47.35,
+      "priceMax": 47.35
+    },
+    {
+      "date": "2020-08-18",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-08-19",
+      "priceMin": 47.88,
+      "priceMax": 47.88
+    },
+    {
+      "date": "2020-08-20",
+      "priceMin": 48.29,
+      "priceMax": 48.29
+    },
+    {
+      "date": "2020-08-23",
+      "priceMin": 49,
+      "priceMax": 49
+    },
+    {
+      "date": "2020-08-24",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-08-25",
+      "priceMin": 49.88,
+      "priceMax": 49.88
+    },
+    {
+      "date": "2020-08-26",
+      "priceMin": 51,
+      "priceMax": 51
+    },
+    {
+      "date": "2020-08-27",
+      "priceMin": 51.65,
+      "priceMax": 51.65
+    },
+    {
+      "date": "2020-08-31",
+      "priceMin": 55.39,
+      "priceMax": 55.39
+    },
+    {
+      "date": "2020-09-01",
+      "priceMin": 56.69,
+      "priceMax": 56.69
+    },
+    {
+      "date": "2020-09-02",
+      "priceMin": 56.55,
+      "priceMax": 56.55
+    },
+    {
+      "date": "2020-09-08",
+      "priceMin": 51.8,
+      "priceMax": 51.8
+    },
+    {
+      "date": "2020-09-09",
+      "priceMin": 51.3,
+      "priceMax": 51.3
+    },
+    {
+      "date": "2020-09-10",
+      "priceMin": 51.45,
+      "priceMax": 51.45
+    },
+    {
+      "date": "2020-09-13",
+      "priceMin": 52,
+      "priceMax": 52
+    },
+    {
+      "date": "2020-09-14",
+      "priceMin": 52.45,
+      "priceMax": 52.45
+    },
+    {
+      "date": "2020-09-15",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-09-17",
+      "priceMin": 53.2,
+      "priceMax": 53.2
+    },
+    {
+      "date": "2020-09-20",
+      "priceMin": 54.29,
+      "priceMax": 54.29
+    },
+    {
+      "date": "2020-09-21",
+      "priceMin": 54.1,
+      "priceMax": 54.1
+    },
+    {
+      "date": "2020-09-22",
+      "priceMin": 53.66,
+      "priceMax": 53.66
+    },
+    {
+      "date": "2020-09-23",
+      "priceMin": 53.66,
+      "priceMax": 53.66
+    },
+    {
+      "date": "2020-09-24",
+      "priceMin": 54.89,
+      "priceMax": 54.89
+    },
+    {
+      "date": "2020-09-27",
+      "priceMin": 55.29,
+      "priceMax": 55.29
+    },
+    {
+      "date": "2020-09-28",
+      "priceMin": 55.39,
+      "priceMax": 55.39
+    },
+    {
+      "date": "2020-09-29",
+      "priceMin": 55.29,
+      "priceMax": 55.29
+    },
+    {
+      "date": "2020-09-30",
+      "priceMin": 54.8,
+      "priceMax": 54.8
+    },
+    {
+      "date": "2020-10-01",
+      "priceMin": 54.3,
+      "priceMax": 54.3
+    },
+    {
+      "date": "2020-10-05",
+      "priceMin": 54.49,
+      "priceMax": 54.49
+    },
+    {
+      "date": "2020-10-07",
+      "priceMin": 54.09,
+      "priceMax": 54.09
+    },
+    {
+      "date": "2020-10-08",
+      "priceMin": 54.49,
+      "priceMax": 54.49
+    },
+    {
+      "date": "2020-10-14",
+      "priceMin": 56.57,
+      "priceMax": 56.57
+    },
+    {
+      "date": "2020-10-15",
+      "priceMin": 56.6,
+      "priceMax": 56.6
+    },
+    {
+      "date": "2020-10-18",
+      "priceMin": 57.09,
+      "priceMax": 57.09
+    },
+    {
+      "date": "2020-10-19",
+      "priceMin": 57.7,
+      "priceMax": 57.7
+    },
+    {
+      "date": "2020-10-20",
+      "priceMin": 60.55,
+      "priceMax": 60.55
+    },
+    {
+      "date": "2020-10-21",
+      "priceMin": 60.59,
+      "priceMax": 60.59
+    },
+    {
+      "date": "2020-10-25",
+      "priceMin": 66.99,
+      "priceMax": 66.99
+    },
+    {
+      "date": "2020-10-29",
+      "priceMin": 73.55,
+      "priceMax": 73.55
+    },
+    {
+      "date": "2020-11-01",
+      "priceMin": 71.19,
+      "priceMax": 71.19
+    },
+    {
+      "date": "2020-11-03",
+      "priceMin": 65.3,
+      "priceMax": 65.3
+    },
+    {
+      "date": "2020-11-04",
+      "priceMin": 59.6,
+      "priceMax": 59.6
+    },
+    {
+      "date": "2020-11-05",
+      "priceMin": 60,
+      "priceMax": 60
+    },
+    {
+      "date": "2020-11-08",
+      "priceMin": 59.19,
+      "priceMax": 59.19
+    },
+    {
+      "date": "2020-11-10",
+      "priceMin": 60.39,
+      "priceMax": 60.39
+    },
+    {
+      "date": "2020-11-11",
+      "priceMin": 61.62,
+      "priceMax": 61.62
+    },
+    {
+      "date": "2020-11-12",
+      "priceMin": 62.39,
+      "priceMax": 62.39
+    },
+    {
+      "date": "2020-11-15",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-11-16",
+      "priceMin": 62.49,
+      "priceMax": 62.49
+    },
+    {
+      "date": "2020-11-17",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-11-22",
+      "priceMin": 60.59,
+      "priceMax": 60.59
+    },
+    {
+      "date": "2020-11-23",
+      "priceMin": 60.9,
+      "priceMax": 60.9
+    },
+    {
+      "date": "2020-11-25",
+      "priceMin": 61.33,
+      "priceMax": 61.33
+    },
+    {
+      "date": "2020-11-30",
+      "priceMin": 64.19,
+      "priceMax": 64.19
+    },
+    {
+      "date": "2020-12-02",
+      "priceMin": 67.59,
+      "priceMax": 67.59
+    },
+    {
+      "date": "2020-12-03",
+      "priceMin": 67.49,
+      "priceMax": 67.49
+    },
+    {
+      "date": "2020-12-14",
+      "priceMin": 59.73,
+      "priceMax": 59.73
+    },
+    {
+      "date": "2020-12-17",
+      "priceMin": 60.55,
+      "priceMax": 60.55
+    },
+    {
+      "date": "2020-12-20",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2020-12-21",
+      "priceMin": 60.63,
+      "priceMax": 60.63
+    },
+    {
+      "date": "2020-12-22",
+      "priceMin": 58.9,
+      "priceMax": 58.9
+    },
+    {
+      "date": "2020-12-23",
+      "priceMin": 58,
+      "priceMax": 58
+    },
+    {
+      "date": "2020-12-27",
+      "priceMin": 57.7,
+      "priceMax": 57.7
+    },
+    {
+      "date": "2020-12-28",
+      "priceMin": 56.8,
+      "priceMax": 56.8
+    },
+    {
+      "date": "2020-12-29",
+      "priceMin": 56.69,
+      "priceMax": 56.69
+    },
+    {
+      "date": "2021-01-03",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2021-01-04",
+      "priceMin": 57,
+      "priceMax": 57
+    },
+    {
+      "date": "2021-01-06",
+      "priceMin": 57.7,
+      "priceMax": 57.7
+    },
+    {
+      "date": "2021-01-07",
+      "priceMin": 58.59,
+      "priceMax": 58.59
+    },
+    {
+      "date": "2021-01-10",
+      "priceMin": 57.37,
+      "priceMax": 57.37
+    },
+    {
+      "date": "2021-01-11",
+      "priceMin": 56.1,
+      "priceMax": 56.1
+    },
+    {
+      "date": "2021-01-12",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2021-01-13",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2021-01-14",
+      "priceMin": 56.62,
+      "priceMax": 56.62
+    },
+    {
+      "date": "2021-01-17",
+      "priceMin": 57.57,
+      "priceMax": 57.57
+    },
+    {
+      "date": "2021-01-18",
+      "priceMin": 56.8,
+      "priceMax": 56.8
+    },
+    {
+      "date": "2021-01-19",
+      "priceMin": 56.4,
+      "priceMax": 56.4
+    },
+    {
+      "date": "2021-01-20",
+      "priceMin": 56.4,
+      "priceMax": 56.4
+    },
+    {
+      "date": "2021-01-21",
+      "priceMin": 55.55,
+      "priceMax": 55.55
+    },
+    {
+      "date": "2021-01-24",
+      "priceMin": 53.59,
+      "priceMax": 53.59
+    },
+    {
+      "date": "2021-01-25",
+      "priceMin": 52.6,
+      "priceMax": 52.6
+    },
+    {
+      "date": "2021-01-27",
+      "priceMin": 52.4,
+      "priceMax": 52.4
+    },
+    {
+      "date": "2021-01-28",
+      "priceMin": 52.8,
+      "priceMax": 52.8
+    },
+    {
+      "date": "2021-01-31",
+      "priceMin": 53.3,
+      "priceMax": 53.3
+    },
+    {
+      "date": "2021-02-01",
+      "priceMin": 53.35,
+      "priceMax": 53.35
+    },
+    {
+      "date": "2021-02-03",
+      "priceMin": 53.39,
+      "priceMax": 53.39
+    },
+    {
+      "date": "2021-02-04",
+      "priceMin": 53.9,
+      "priceMax": 53.9
+    },
+    {
+      "date": "2021-02-07",
+      "priceMin": 54.99,
+      "priceMax": 54.99
+    },
+    {
+      "date": "2021-02-08",
+      "priceMin": 54.99,
+      "priceMax": 54.99
+    },
+    {
+      "date": "2021-02-09",
+      "priceMin": 55.05,
+      "priceMax": 55.05
+    },
+    {
+      "date": "2021-02-10",
+      "priceMin": 54.7,
+      "priceMax": 54.7
+    },
+    {
+      "date": "2021-02-14",
+      "priceMin": 56.99,
+      "priceMax": 56.99
+    },
+    {
+      "date": "2021-02-15",
+      "priceMin": 57.1,
+      "priceMax": 57.1
+    },
+    {
+      "date": "2021-02-16",
+      "priceMin": 57.75,
+      "priceMax": 57.75
+    },
+    {
+      "date": "2021-02-17",
+      "priceMin": 59.59,
+      "priceMax": 59.59
+    },
+    {
+      "date": "2021-02-18",
+      "priceMin": 59.7,
+      "priceMax": 59.7
+    },
+    {
+      "date": "2021-02-22",
+      "priceMin": 63,
+      "priceMax": 63
+    },
+    {
+      "date": "2021-02-23",
+      "priceMin": 63.1,
+      "priceMax": 63.1
+    },
+    {
+      "date": "2021-02-24",
+      "priceMin": 66.19,
+      "priceMax": 66.19
+    },
+    {
+      "date": "2021-02-28",
+      "priceMin": 63.1,
+      "priceMax": 63.1
+    },
+    {
+      "date": "2021-03-01",
+      "priceMin": 61.2,
+      "priceMax": 61.2
+    },
+    {
+      "date": "2021-03-02",
+      "priceMin": 60.06,
+      "priceMax": 60.06
+    },
+    {
+      "date": "2021-03-03",
+      "priceMin": 60.3,
+      "priceMax": 60.3
+    },
+    {
+      "date": "2021-03-04",
+      "priceMin": 60.34,
+      "priceMax": 60.34
+    },
+    {
+      "date": "2021-03-08",
+      "priceMin": 61.95,
+      "priceMax": 61.95
+    },
+    {
+      "date": "2021-03-09",
+      "priceMin": 62.5,
+      "priceMax": 62.5
+    },
+    {
+      "date": "2021-03-10",
+      "priceMin": 63.17,
+      "priceMax": 63.17
+    },
+    {
+      "date": "2021-03-11",
+      "priceMin": 63.68,
+      "priceMax": 63.68
+    },
+    {
+      "date": "2021-03-14",
+      "priceMin": 63,
+      "priceMax": 63
+    },
+    {
+      "date": "2021-03-15",
+      "priceMin": 62.89,
+      "priceMax": 62.89
+    },
+    {
+      "date": "2021-03-18",
+      "priceMin": 63.35,
+      "priceMax": 63.35
+    },
+    {
+      "date": "2021-03-21",
+      "priceMin": 62.3,
+      "priceMax": 62.3
+    },
+    {
+      "date": "2021-03-23",
+      "priceMin": 61.9,
+      "priceMax": 61.9
+    },
+    {
+      "date": "2021-03-24",
+      "priceMin": 61.2,
+      "priceMax": 61.2
+    },
+    {
+      "date": "2021-03-25",
+      "priceMin": 60.6,
+      "priceMax": 60.6
+    },
+    {
+      "date": "2021-03-28",
+      "priceMin": 61,
+      "priceMax": 61
+    },
+    {
+      "date": "2021-03-29",
+      "priceMin": 61.5,
+      "priceMax": 61.5
+    },
+    {
+      "date": "2021-04-04",
+      "priceMin": 60.98,
+      "priceMax": 60.98
+    },
+    {
+      "date": "2021-04-07",
+      "priceMin": 61.31,
+      "priceMax": 61.31
+    },
+    {
+      "date": "2021-04-08",
+      "priceMin": 61.12,
+      "priceMax": 61.12
+    },
+    {
+      "date": "2021-04-26",
+      "priceMin": 58.69,
+      "priceMax": 58.69
+    },
+    {
+      "date": "2021-04-29",
+      "priceMin": 58.55,
+      "priceMax": 58.55
+    },
+    {
+      "date": "2021-05-04",
+      "priceMin": 61.5,
+      "priceMax": 61.5
+    },
+    {
+      "date": "2021-05-13",
+      "priceMin": 63.27,
+      "priceMax": 63.27
+    },
+    {
+      "date": "2021-05-24",
+      "priceMin": 64.59,
+      "priceMax": 64.59
+    },
+    {
+      "date": "2021-05-26",
+      "priceMin": 65.27,
+      "priceMax": 65.27
+    },
+    {
+      "date": "2021-06-01",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2021-06-03",
+      "priceMin": 62.75,
+      "priceMax": 62.75
+    },
+    {
+      "date": "2021-06-06",
+      "priceMin": 62.42,
+      "priceMax": 62.42
+    },
+    {
+      "date": "2021-06-09",
+      "priceMin": 61.65,
+      "priceMax": 61.65
+    },
+    {
+      "date": "2021-06-10",
+      "priceMin": 60.58,
+      "priceMax": 60.58
+    },
+    {
+      "date": "2021-06-13",
+      "priceMin": 59.29,
+      "priceMax": 59.29
+    },
+    {
+      "date": "2021-06-14",
+      "priceMin": 59.16,
+      "priceMax": 59.16
+    },
+    {
+      "date": "2021-06-15",
+      "priceMin": 58.7,
+      "priceMax": 58.7
+    },
+    {
+      "date": "2021-06-16",
+      "priceMin": 58.58,
+      "priceMax": 58.58
+    },
+    {
+      "date": "2021-06-17",
+      "priceMin": 57.86,
+      "priceMax": 57.86
+    },
+    {
+      "date": "2021-06-20",
+      "priceMin": 56.67,
+      "priceMax": 56.67
+    },
+    {
+      "date": "2021-06-21",
+      "priceMin": 56.56,
+      "priceMax": 56.56
+    },
+    {
+      "date": "2021-06-22",
+      "priceMin": 57.12,
+      "priceMax": 57.12
+    },
+    {
+      "date": "2021-06-23",
+      "priceMin": 57,
+      "priceMax": 57
+    },
+    {
+      "date": "2021-06-24",
+      "priceMin": 57.59,
+      "priceMax": 57.59
+    },
+    {
+      "date": "2021-06-27",
+      "priceMin": 57.3,
+      "priceMax": 57.3
+    },
+    {
+      "date": "2021-06-28",
+      "priceMin": 56.6,
+      "priceMax": 56.6
+    },
+    {
+      "date": "2021-06-29",
+      "priceMin": 55.1,
+      "priceMax": 55.1
+    },
+    {
+      "date": "2021-06-30",
+      "priceMin": 53.75,
+      "priceMax": 53.75
+    },
+    {
+      "date": "2021-07-01",
+      "priceMin": 51.89,
+      "priceMax": 51.89
+    },
+    {
+      "date": "2021-07-04",
+      "priceMin": 52.19,
+      "priceMax": 52.19
+    },
+    {
+      "date": "2021-07-05",
+      "priceMin": 52.7,
+      "priceMax": 52.7
+    },
+    {
+      "date": "2021-07-06",
+      "priceMin": 52.1,
+      "priceMax": 52.1
+    },
+    {
+      "date": "2021-07-07",
+      "priceMin": 51.5,
+      "priceMax": 51.5
+    },
+    {
+      "date": "2021-07-08",
+      "priceMin": 50.51,
+      "priceMax": 50.51
+    },
+    {
+      "date": "2021-07-11",
+      "priceMin": 50.7,
+      "priceMax": 50.7
+    },
+    {
+      "date": "2021-07-12",
+      "priceMin": 50.07,
+      "priceMax": 50.07
+    },
+    {
+      "date": "2021-07-13",
+      "priceMin": 49.4,
+      "priceMax": 49.4
+    },
+    {
+      "date": "2021-07-14",
+      "priceMin": 49.77,
+      "priceMax": 49.77
+    },
+    {
+      "date": "2021-07-15",
+      "priceMin": 50.05,
+      "priceMax": 50.05
+    },
+    {
+      "date": "2021-07-18",
+      "priceMin": 50.29,
+      "priceMax": 50.29
+    },
+    {
+      "date": "2021-07-19",
+      "priceMin": 48.39,
+      "priceMax": 48.39
+    },
+    {
+      "date": "2021-07-21",
+      "priceMin": 48.4,
+      "priceMax": 48.4
+    },
+    {
+      "date": "2021-07-22",
+      "priceMin": 48.63,
+      "priceMax": 48.63
+    },
+    {
+      "date": "2021-07-26",
+      "priceMin": 49.3,
+      "priceMax": 49.3
+    },
+    {
+      "date": "2021-07-28",
+      "priceMin": 49.9,
+      "priceMax": 49.9
+    },
+    {
+      "date": "2021-08-01",
+      "priceMin": 50.55,
+      "priceMax": 50.55
+    },
+    {
+      "date": "2021-08-02",
+      "priceMin": 50.05,
+      "priceMax": 50.05
+    },
+    {
+      "date": "2021-08-03",
+      "priceMin": 50.2,
+      "priceMax": 50.2
+    },
+    {
+      "date": "2021-08-04",
+      "priceMin": 50.4,
+      "priceMax": 50.4
+    },
+    {
+      "date": "2021-08-05",
+      "priceMin": 50.9,
+      "priceMax": 50.9
+    },
+    {
+      "date": "2021-08-08",
+      "priceMin": 52.1,
+      "priceMax": 52.1
+    },
+    {
+      "date": "2021-08-09",
+      "priceMin": 52,
+      "priceMax": 52
+    },
+    {
+      "date": "2021-08-10",
+      "priceMin": 51.91,
+      "priceMax": 51.91
+    },
+    {
+      "date": "2021-08-12",
+      "priceMin": 52.38,
+      "priceMax": 52.38
+    },
+    {
+      "date": "2021-08-15",
+      "priceMin": 52.46,
+      "priceMax": 52.46
+    },
+    {
+      "date": "2021-08-16",
+      "priceMin": 52.8,
+      "priceMax": 52.8
+    },
+    {
+      "date": "2021-08-17",
+      "priceMin": 52.8,
+      "priceMax": 52.8
+    },
+    {
+      "date": "2021-08-19",
+      "priceMin": 52.53,
+      "priceMax": 52.53
+    },
+    {
+      "date": "2021-08-23",
+      "priceMin": 52.39,
+      "priceMax": 52.39
+    },
+    {
+      "date": "2021-08-24",
+      "priceMin": 52.39,
+      "priceMax": 52.39
+    },
+    {
+      "date": "2021-08-25",
+      "priceMin": 52.23,
+      "priceMax": 52.23
+    },
+    {
+      "date": "2021-08-26",
+      "priceMin": 51.39,
+      "priceMax": 51.39
+    },
+    {
+      "date": "2021-08-29",
+      "priceMin": 51.56,
+      "priceMax": 51.56
+    },
+    {
+      "date": "2021-08-30",
+      "priceMin": 51.67,
+      "priceMax": 51.67
+    },
+    {
+      "date": "2021-09-01",
+      "priceMin": 51.75,
+      "priceMax": 51.75
+    },
+    {
+      "date": "2021-09-02",
+      "priceMin": 51.39,
+      "priceMax": 51.39
+    },
+    {
+      "date": "2021-09-05",
+      "priceMin": 51.53,
+      "priceMax": 51.53
+    },
+    {
+      "date": "2021-09-06",
+      "priceMin": 50.55,
+      "priceMax": 50.55
+    },
+    {
+      "date": "2021-09-07",
+      "priceMin": 49.6,
+      "priceMax": 49.6
+    },
+    {
+      "date": "2021-09-09",
+      "priceMin": 49.98,
+      "priceMax": 49.98
+    },
+    {
+      "date": "2021-09-12",
+      "priceMin": 50.22,
+      "priceMax": 50.22
+    },
+    {
+      "date": "2021-09-13",
+      "priceMin": 50.11,
+      "priceMax": 50.11
+    },
+    {
+      "date": "2021-09-14",
+      "priceMin": 50.48,
+      "priceMax": 50.48
+    },
+    {
+      "date": "2021-09-15",
+      "priceMin": 50.5,
+      "priceMax": 50.5
+    },
+    {
+      "date": "2021-09-16",
+      "priceMin": 49.8,
+      "priceMax": 49.8
+    },
+    {
+      "date": "2021-09-19",
+      "priceMin": 49.5,
+      "priceMax": 49.5
+    },
+    {
+      "date": "2021-09-20",
+      "priceMin": 48.66,
+      "priceMax": 48.66
+    },
+    {
+      "date": "2021-09-21",
+      "priceMin": 48.37,
+      "priceMax": 48.37
+    },
+    {
+      "date": "2021-09-22",
+      "priceMin": 48.37,
+      "priceMax": 48.37
+    },
+    {
+      "date": "2021-09-27",
+      "priceMin": 49.77,
+      "priceMax": 49.77
+    },
+    {
+      "date": "2021-09-29",
+      "priceMin": 49.9,
+      "priceMax": 49.9
+    },
+    {
+      "date": "2021-09-30",
+      "priceMin": 50.35,
+      "priceMax": 50.35
+    },
+    {
+      "date": "2021-10-03",
+      "priceMin": 49.6,
+      "priceMax": 49.6
+    },
+    {
+      "date": "2021-10-04",
+      "priceMin": 49.42,
+      "priceMax": 49.42
+    },
+    {
+      "date": "2021-10-06",
+      "priceMin": 50.19,
+      "priceMax": 50.19
+    },
+    {
+      "date": "2021-10-07",
+      "priceMin": 50.4,
+      "priceMax": 50.4
+    },
+    {
+      "date": "2021-10-10",
+      "priceMin": 52.19,
+      "priceMax": 52.19
+    },
+    {
+      "date": "2021-10-11",
+      "priceMin": 53.15,
+      "priceMax": 53.15
+    },
+    {
+      "date": "2021-10-13",
+      "priceMin": 53.27,
+      "priceMax": 53.27
+    },
+    {
+      "date": "2021-10-14",
+      "priceMin": 53.07,
+      "priceMax": 53.07
+    },
+    {
+      "date": "2021-10-17",
+      "priceMin": 51.55,
+      "priceMax": 51.55
+    },
+    {
+      "date": "2021-10-18",
+      "priceMin": 51.53,
+      "priceMax": 51.53
+    },
+    {
+      "date": "2021-10-24",
+      "priceMin": 52.6,
+      "priceMax": 52.6
+    },
+    {
+      "date": "2021-10-25",
+      "priceMin": 52.75,
+      "priceMax": 52.75
+    },
+    {
+      "date": "2021-10-26",
+      "priceMin": 53.33,
+      "priceMax": 53.33
+    },
+    {
+      "date": "2021-10-27",
+      "priceMin": 53.33,
+      "priceMax": 53.33
+    },
+    {
+      "date": "2021-10-28",
+      "priceMin": 53.55,
+      "priceMax": 53.55
+    },
+    {
+      "date": "2021-10-31",
+      "priceMin": 53.55,
+      "priceMax": 53.55
+    },
+    {
+      "date": "2021-11-01",
+      "priceMin": 52.7,
+      "priceMax": 52.7
+    },
+    {
+      "date": "2021-11-02",
+      "priceMin": 53.03,
+      "priceMax": 53.03
+    },
+    {
+      "date": "2021-11-03",
+      "priceMin": 52.75,
+      "priceMax": 52.75
+    },
+    {
+      "date": "2021-11-04",
+      "priceMin": 52.5,
+      "priceMax": 52.5
+    },
+    {
+      "date": "2021-11-09",
+      "priceMin": 52.67,
+      "priceMax": 52.67
+    },
+    {
+      "date": "2021-11-10",
+      "priceMin": 52.85,
+      "priceMax": 52.85
+    },
+    {
+      "date": "2021-11-14",
+      "priceMin": 53.83,
+      "priceMax": 53.83
+    },
+    {
+      "date": "2021-11-15",
+      "priceMin": 53,
+      "priceMax": 53
+    },
+    {
+      "date": "2021-11-16",
+      "priceMin": 54.35,
+      "priceMax": 54.35
+    },
+    {
+      "date": "2021-11-17",
+      "priceMin": 54.25,
+      "priceMax": 54.25
+    },
+    {
+      "date": "2021-11-22",
+      "priceMin": 55.2,
+      "priceMax": 55.2
+    },
+    {
+      "date": "2021-11-30",
+      "priceMin": 55.55,
+      "priceMax": 55.55
+    },
+    {
+      "date": "2021-12-02",
+      "priceMin": 56.8,
+      "priceMax": 56.8
+    },
+    {
+      "date": "2021-12-06",
+      "priceMin": 56.15,
+      "priceMax": 56.15
+    },
+    {
+      "date": "2021-12-13",
+      "priceMin": 55.4,
+      "priceMax": 55.4
+    },
+    {
+      "date": "2021-12-16",
+      "priceMin": 55.5,
+      "priceMax": 55.5
+    },
+    {
+      "date": "2021-12-19",
+      "priceMin": 54.52,
+      "priceMax": 54.52
+    },
+    {
+      "date": "2021-12-21",
+      "priceMin": 54.38,
+      "priceMax": 54.38
+    },
+    {
+      "date": "2021-12-26",
+      "priceMin": 53.85,
+      "priceMax": 53.85
+    },
+    {
+      "date": "2021-12-28",
+      "priceMin": 53.22,
+      "priceMax": 53.22
+    },
+    {
+      "date": "2021-12-29",
+      "priceMin": 53.88,
+      "priceMax": 53.88
+    },
+    {
+      "date": "2022-01-03",
+      "priceMin": 53.2,
+      "priceMax": 53.2
+    },
+    {
+      "date": "2022-01-04",
+      "priceMin": 53.55,
+      "priceMax": 53.55
+    },
+    {
+      "date": "2022-01-06",
+      "priceMin": 54.15,
+      "priceMax": 54.15
+    },
+    {
+      "date": "2022-01-09",
+      "priceMin": 53.77,
+      "priceMax": 53.77
+    },
+    {
+      "date": "2022-01-10",
+      "priceMin": 54.5,
+      "priceMax": 54.5
+    },
+    {
+      "date": "2022-01-12",
+      "priceMin": 55.01,
+      "priceMax": 55.01
+    },
+    {
+      "date": "2022-01-13",
+      "priceMin": 56,
+      "priceMax": 56
+    },
+    {
+      "date": "2022-01-16",
+      "priceMin": 55.15,
+      "priceMax": 55.15
+    },
+    {
+      "date": "2022-01-17",
+      "priceMin": 55.05,
+      "priceMax": 55.05
+    },
+    {
+      "date": "2022-01-20",
+      "priceMin": 55.28,
+      "priceMax": 55.28
+    },
+    {
+      "date": "2022-01-23",
+      "priceMin": 54.79,
+      "priceMax": 54.79
+    },
+    {
+      "date": "2022-01-24",
+      "priceMin": 54.9,
+      "priceMax": 54.9
+    },
+    {
+      "date": "2022-01-26",
+      "priceMin": 55.05,
+      "priceMax": 55.05
+    },
+    {
+      "date": "2022-01-27",
+      "priceMin": 54.9,
+      "priceMax": 54.9
+    },
+    {
+      "date": "2022-02-03",
+      "priceMin": 56.2,
+      "priceMax": 56.2
+    },
+    {
+      "date": "2022-02-06",
+      "priceMin": 56.7,
+      "priceMax": 56.7
+    },
+    {
+      "date": "2022-02-07",
+      "priceMin": 57.89,
+      "priceMax": 57.89
+    },
+    {
+      "date": "2022-02-08",
+      "priceMin": 58.11,
+      "priceMax": 58.11
+    },
+    {
+      "date": "2022-02-09",
+      "priceMin": 59.33,
+      "priceMax": 59.33
+    },
+    {
+      "date": "2022-02-10",
+      "priceMin": 59.99,
+      "priceMax": 59.99
+    },
+    {
+      "date": "2022-02-13",
+      "priceMin": 60.5,
+      "priceMax": 60.5
+    },
+    {
+      "date": "2022-02-14",
+      "priceMin": 60.68,
+      "priceMax": 60.68
+    },
+    {
+      "date": "2022-02-16",
+      "priceMin": 60.75,
+      "priceMax": 60.75
+    },
+    {
+      "date": "2022-02-17",
+      "priceMin": 60.75,
+      "priceMax": 60.75
+    },
+    {
+      "date": "2022-02-20",
+      "priceMin": 61.81,
+      "priceMax": 61.81
+    },
+    {
+      "date": "2022-02-21",
+      "priceMin": 62.15,
+      "priceMax": 62.15
+    },
+    {
+      "date": "2022-02-22",
+      "priceMin": 63.05,
+      "priceMax": 63.05
+    },
+    {
+      "date": "2022-02-23",
+      "priceMin": 64.57,
+      "priceMax": 64.57
+    },
+    {
+      "date": "2022-02-24",
+      "priceMin": 65.19,
+      "priceMax": 65.19
+    },
+    {
+      "date": "2022-02-27",
+      "priceMin": 65.05,
+      "priceMax": 65.05
+    },
+    {
+      "date": "2022-02-28",
+      "priceMin": 65.55,
+      "priceMax": 65.55
+    },
+    {
+      "date": "2022-03-01",
+      "priceMin": 64.79,
+      "priceMax": 64.79
+    },
+    {
+      "date": "2022-03-02",
+      "priceMin": 65.19,
+      "priceMax": 65.19
+    },
+    {
+      "date": "2022-03-07",
+      "priceMin": 63.59,
+      "priceMax": 63.59
+    },
+    {
+      "date": "2022-03-08",
+      "priceMin": 63.73,
+      "priceMax": 63.73
+    },
+    {
+      "date": "2022-03-09",
+      "priceMin": 63.8,
+      "priceMax": 63.8
+    },
+    {
+      "date": "2022-03-10",
+      "priceMin": 63.01,
+      "priceMax": 63.01
+    },
+    {
+      "date": "2022-03-13",
+      "priceMin": 62.6,
+      "priceMax": 62.6
+    },
+    {
+      "date": "2022-03-14",
+      "priceMin": 63.38,
+      "priceMax": 63.38
+    },
+    {
+      "date": "2022-03-17",
+      "priceMin": 62.88,
+      "priceMax": 62.88
+    },
+    {
+      "date": "2022-03-23",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2022-03-27",
+      "priceMin": 63,
+      "priceMax": 63
+    },
+    {
+      "date": "2022-03-30",
+      "priceMin": 64.29,
+      "priceMax": 64.29
+    },
+    {
+      "date": "2022-04-10",
+      "priceMin": 68.18,
+      "priceMax": 68.18
+    },
+    {
+      "date": "2022-04-17",
+      "priceMin": 67.88,
+      "priceMax": 67.88
+    },
+    {
+      "date": "2022-04-20",
+      "priceMin": 65.88,
+      "priceMax": 65.88
+    },
+    {
+      "date": "2022-04-27",
+      "priceMin": 62.88,
+      "priceMax": 62.88
+    },
+    {
+      "date": "2022-05-02",
+      "priceMin": 62.88,
+      "priceMax": 62.88
+    },
+    {
+      "date": "2022-05-08",
+      "priceMin": 62.4,
+      "priceMax": 62.4
+    },
+    {
+      "date": "2022-05-11",
+      "priceMin": 63.42,
+      "priceMax": 63.42
+    },
+    {
+      "date": "2022-05-16",
+      "priceMin": 62.23,
+      "priceMax": 62.23
+    },
+    {
+      "date": "2022-05-22",
+      "priceMin": 63.88,
+      "priceMax": 63.88
+    },
+    {
+      "date": "2022-05-23",
+      "priceMin": 64.68,
+      "priceMax": 64.68
+    },
+    {
+      "date": "2022-05-25",
+      "priceMin": 64.89,
+      "priceMax": 64.89
+    },
+    {
+      "date": "2022-05-30",
+      "priceMin": 65.25,
+      "priceMax": 65.25
+    },
+    {
+      "date": "2022-06-01",
+      "priceMin": 65.5,
+      "priceMax": 65.5
+    },
+    {
+      "date": "2022-06-05",
+      "priceMin": 65.69,
+      "priceMax": 65.69
+    },
+    {
+      "date": "2022-06-06",
+      "priceMin": 65,
+      "priceMax": 65
+    },
+    {
+      "date": "2022-06-07",
+      "priceMin": 65.88,
+      "priceMax": 65.88
+    },
+    {
+      "date": "2022-06-12",
+      "priceMin": 65.38,
+      "priceMax": 65.38
+    },
+    {
+      "date": "2022-06-13",
+      "priceMin": 63.7,
+      "priceMax": 63.7
+    },
+    {
+      "date": "2022-06-15",
+      "priceMin": 63.58,
+      "priceMax": 63.58
+    },
+    {
+      "date": "2022-06-19",
+      "priceMin": 63.58,
+      "priceMax": 63.58
+    },
+    {
+      "date": "2022-06-20",
+      "priceMin": 62.69,
+      "priceMax": 62.69
+    },
+    {
+      "date": "2022-06-21",
+      "priceMin": 62.88,
+      "priceMax": 62.88
+    },
+    {
+      "date": "2022-06-23",
+      "priceMin": 62.19,
+      "priceMax": 62.19
+    },
+    {
+      "date": "2022-06-27",
+      "priceMin": 61.69,
+      "priceMax": 61.69
+    },
+    {
+      "date": "2022-06-28",
+      "priceMin": 61.69,
+      "priceMax": 61.69
+    },
+    {
+      "date": "2022-06-29",
+      "priceMin": 60.05,
+      "priceMax": 60.05
+    },
+    {
+      "date": "2022-06-30",
+      "priceMin": 60.1,
+      "priceMax": 60.1
+    },
+    {
+      "date": "2022-07-03",
+      "priceMin": 60.3,
+      "priceMax": 60.3
+    },
+    {
+      "date": "2022-07-04",
+      "priceMin": 58.7,
+      "priceMax": 58.7
+    },
+    {
+      "date": "2022-07-05",
+      "priceMin": 58.6,
+      "priceMax": 58.6
+    },
+    {
+      "date": "2022-07-06",
+      "priceMin": 58.05,
+      "priceMax": 58.05
+    },
+    {
+      "date": "2022-07-07",
+      "priceMin": 58.2,
+      "priceMax": 58.2
+    },
+    {
+      "date": "2022-07-10",
+      "priceMin": 58.88,
+      "priceMax": 58.88
+    },
+    {
+      "date": "2022-07-11",
+      "priceMin": 58.58,
+      "priceMax": 58.58
+    },
+    {
+      "date": "2022-07-17",
+      "priceMin": 57.47,
+      "priceMax": 57.47
+    },
+    {
+      "date": "2022-07-18",
+      "priceMin": 56.7,
+      "priceMax": 56.7
+    },
+    {
+      "date": "2022-07-19",
+      "priceMin": 56.8,
+      "priceMax": 56.8
+    },
+    {
+      "date": "2022-07-20",
+      "priceMin": 56.8,
+      "priceMax": 56.8
+    },
+    {
+      "date": "2022-07-21",
+      "priceMin": 55.88,
+      "priceMax": 55.88
+    },
+    {
+      "date": "2022-07-24",
+      "priceMin": 55.5,
+      "priceMax": 55.5
+    },
+    {
+      "date": "2022-07-25",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2022-07-26",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2022-07-31",
+      "priceMin": 54.23,
+      "priceMax": 54.23
+    },
+    {
+      "date": "2022-08-01",
+      "priceMin": 53.99,
+      "priceMax": 53.99
+    },
+    {
+      "date": "2022-08-02",
+      "priceMin": 54.68,
+      "priceMax": 54.68
+    },
+    {
+      "date": "2022-08-03",
+      "priceMin": 53.97,
+      "priceMax": 53.97
+    },
+    {
+      "date": "2022-08-04",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2022-08-07",
+      "priceMin": 53.58,
+      "priceMax": 53.58
+    },
+    {
+      "date": "2022-08-08",
+      "priceMin": 52.58,
+      "priceMax": 52.58
+    },
+    {
+      "date": "2022-08-09",
+      "priceMin": 51.88,
+      "priceMax": 51.88
+    },
+    {
+      "date": "2022-08-10",
+      "priceMin": 50.9,
+      "priceMax": 50.9
+    },
+    {
+      "date": "2022-08-14",
+      "priceMin": 48.48,
+      "priceMax": 48.48
+    },
+    {
+      "date": "2022-08-15",
+      "priceMin": 48.5,
+      "priceMax": 48.5
+    },
+    {
+      "date": "2022-08-18",
+      "priceMin": 48.96,
+      "priceMax": 48.96
+    },
+    {
+      "date": "2022-08-21",
+      "priceMin": 47.8,
+      "priceMax": 47.8
+    },
+    {
+      "date": "2022-08-22",
+      "priceMin": 48.2,
+      "priceMax": 48.2
+    },
+    {
+      "date": "2022-08-23",
+      "priceMin": 48.28,
+      "priceMax": 48.28
+    },
+    {
+      "date": "2022-08-24",
+      "priceMin": 48,
+      "priceMax": 48
+    },
+    {
+      "date": "2022-08-25",
+      "priceMin": 48.18,
+      "priceMax": 48.18
+    },
+    {
+      "date": "2022-08-29",
+      "priceMin": 48,
+      "priceMax": 48
+    },
+    {
+      "date": "2022-08-30",
+      "priceMin": 47.47,
+      "priceMax": 47.47
+    },
+    {
+      "date": "2022-08-31",
+      "priceMin": 46.51,
+      "priceMax": 46.51
+    },
+    {
+      "date": "2022-09-01",
+      "priceMin": 45.65,
+      "priceMax": 45.65
+    },
+    {
+      "date": "2022-09-04",
+      "priceMin": 45.75,
+      "priceMax": 45.75
+    },
+    {
+      "date": "2022-09-05",
+      "priceMin": 45.45,
+      "priceMax": 45.45
+    },
+    {
+      "date": "2022-09-06",
+      "priceMin": 45.3,
+      "priceMax": 45.3
+    },
+    {
+      "date": "2022-09-08",
+      "priceMin": 45.88,
+      "priceMax": 45.88
+    },
+    {
+      "date": "2022-09-11",
+      "priceMin": 45.19,
+      "priceMax": 45.19
+    },
+    {
+      "date": "2022-09-12",
+      "priceMin": 45.55,
+      "priceMax": 45.55
+    },
+    {
+      "date": "2022-09-13",
+      "priceMin": 45.88,
+      "priceMax": 45.88
+    },
+    {
+      "date": "2022-09-15",
+      "priceMin": 46.15,
+      "priceMax": 46.15
+    },
+    {
+      "date": "2022-09-20",
+      "priceMin": 45.5,
+      "priceMax": 45.5
+    },
+    {
+      "date": "2022-09-21",
+      "priceMin": 45.66,
+      "priceMax": 45.66
+    },
+    {
+      "date": "2022-09-22",
+      "priceMin": 45.6,
+      "priceMax": 45.6
+    },
+    {
+      "date": "2022-09-26",
+      "priceMin": 45.85,
+      "priceMax": 45.85
+    },
+    {
+      "date": "2022-09-27",
+      "priceMin": 46.05,
+      "priceMax": 46.05
+    },
+    {
+      "date": "2022-09-28",
+      "priceMin": 46.36,
+      "priceMax": 46.36
+    },
+    {
+      "date": "2022-09-29",
+      "priceMin": 46.49,
+      "priceMax": 46.49
+    },
+    {
+      "date": "2022-10-02",
+      "priceMin": 46.89,
+      "priceMax": 46.89
+    },
+    {
+      "date": "2022-10-05",
+      "priceMin": 48.28,
+      "priceMax": 48.28
+    },
+    {
+      "date": "2022-10-06",
+      "priceMin": 48.69,
+      "priceMax": 48.69
+    },
+    {
+      "date": "2022-10-09",
+      "priceMin": 49.23,
+      "priceMax": 49.23
+    },
+    {
+      "date": "2022-10-10",
+      "priceMin": 49.79,
+      "priceMax": 49.79
+    },
+    {
+      "date": "2022-10-11",
+      "priceMin": 48.39,
+      "priceMax": 48.39
+    },
+    {
+      "date": "2022-10-16",
+      "priceMin": 48.68,
+      "priceMax": 48.68
+    },
+    {
+      "date": "2022-10-18",
+      "priceMin": 48.6,
+      "priceMax": 48.6
+    },
+    {
+      "date": "2022-10-20",
+      "priceMin": 48.53,
+      "priceMax": 48.53
+    },
+    {
+      "date": "2022-10-30",
+      "priceMin": 46.39,
+      "priceMax": 46.39
+    },
+    {
+      "date": "2022-10-31",
+      "priceMin": 46.8,
+      "priceMax": 46.8
+    },
+    {
+      "date": "2022-11-02",
+      "priceMin": 46,
+      "priceMax": 46
+    },
+    {
+      "date": "2022-11-03",
+      "priceMin": 46.01,
+      "priceMax": 46.01
+    },
+    {
+      "date": "2022-11-09",
+      "priceMin": 46,
+      "priceMax": 46
+    },
+    {
+      "date": "2022-11-10",
+      "priceMin": 44.22,
+      "priceMax": 44.22
+    },
+    {
+      "date": "2022-11-22",
+      "priceMin": 44.8,
+      "priceMax": 44.8
+    },
+    {
+      "date": "2022-11-24",
+      "priceMin": 44.5,
+      "priceMax": 44.5
+    },
+    {
+      "date": "2022-11-27",
+      "priceMin": 44.23,
+      "priceMax": 44.23
+    },
+    {
+      "date": "2022-11-29",
+      "priceMin": 44.02,
+      "priceMax": 44.02
+    },
+    {
+      "date": "2022-12-01",
+      "priceMin": 44,
+      "priceMax": 44
+    },
+    {
+      "date": "2022-12-08",
+      "priceMin": 44.75,
+      "priceMax": 44.75
+    },
+    {
+      "date": "2022-12-12",
+      "priceMin": 44.8,
+      "priceMax": 44.8
+    },
+    {
+      "date": "2022-12-18",
+      "priceMin": 45,
+      "priceMax": 45
+    },
+    {
+      "date": "2022-12-22",
+      "priceMin": 44.5,
+      "priceMax": 44.5
+    },
+    {
+      "date": "2022-12-26",
+      "priceMin": 43.89,
+      "priceMax": 43.89
+    },
+    {
+      "date": "2022-12-28",
+      "priceMin": 44.1,
+      "priceMax": 44.1
+    },
+    {
+      "date": "2023-01-03",
+      "priceMin": 44.1,
+      "priceMax": 44.1
+    },
+    {
+      "date": "2023-01-04",
+      "priceMin": 44.49,
+      "priceMax": 44.49
+    },
+    {
+      "date": "2023-01-05",
+      "priceMin": 44.3,
+      "priceMax": 44.3
+    },
+    {
+      "date": "2023-01-08",
+      "priceMin": 44.51,
+      "priceMax": 44.51
+    },
+    {
+      "date": "2023-01-09",
+      "priceMin": 43.5,
+      "priceMax": 43.5
+    },
+    {
+      "date": "2023-01-10",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2023-01-11",
+      "priceMin": 44.2,
+      "priceMax": 44.2
+    },
+    {
+      "date": "2023-01-12",
+      "priceMin": 44.25,
+      "priceMax": 44.25
+    },
+    {
+      "date": "2023-01-15",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2023-01-16",
+      "priceMin": 44.3,
+      "priceMax": 44.3
+    },
+    {
+      "date": "2023-01-17",
+      "priceMin": 44.5,
+      "priceMax": 44.5
+    },
+    {
+      "date": "2023-01-19",
+      "priceMin": 44.8,
+      "priceMax": 44.8
+    },
+    {
+      "date": "2023-01-23",
+      "priceMin": 45.77,
+      "priceMax": 45.77
+    },
+    {
+      "date": "2023-01-24",
+      "priceMin": 46.22,
+      "priceMax": 46.22
+    },
+    {
+      "date": "2023-01-25",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2023-01-26",
+      "priceMin": 47.15,
+      "priceMax": 47.15
+    },
+    {
+      "date": "2023-01-29",
+      "priceMin": 48.6,
+      "priceMax": 48.6
+    },
+    {
+      "date": "2023-01-30",
+      "priceMin": 49,
+      "priceMax": 49
+    },
+    {
+      "date": "2023-01-31",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2023-02-01",
+      "priceMin": 47.08,
+      "priceMax": 47.08
+    },
+    {
+      "date": "2023-02-02",
+      "priceMin": 47.1,
+      "priceMax": 47.1
+    },
+    {
+      "date": "2023-02-05",
+      "priceMin": 47.4,
+      "priceMax": 47.4
+    },
+    {
+      "date": "2023-02-06",
+      "priceMin": 47.5,
+      "priceMax": 47.5
+    },
+    {
+      "date": "2023-02-07",
+      "priceMin": 47.2,
+      "priceMax": 47.2
+    },
+    {
+      "date": "2023-02-09",
+      "priceMin": 47.4,
+      "priceMax": 47.4
+    },
+    {
+      "date": "2023-02-14",
+      "priceMin": 47.02,
+      "priceMax": 47.02
+    },
+    {
+      "date": "2023-02-16",
+      "priceMin": 46.7,
+      "priceMax": 46.7
+    },
+    {
+      "date": "2023-02-19",
+      "priceMin": 46.9,
+      "priceMax": 46.9
+    },
+    {
+      "date": "2023-02-20",
+      "priceMin": 47.1,
+      "priceMax": 47.1
+    },
+    {
+      "date": "2023-02-21",
+      "priceMin": 47.5,
+      "priceMax": 47.5
+    },
+    {
+      "date": "2023-02-22",
+      "priceMin": 48.1,
+      "priceMax": 48.1
+    },
+    {
+      "date": "2023-02-27",
+      "priceMin": 48.2,
+      "priceMax": 48.2
+    },
+    {
+      "date": "2023-03-01",
+      "priceMin": 48.5,
+      "priceMax": 48.5
+    },
+    {
+      "date": "2023-03-02",
+      "priceMin": 49.12,
+      "priceMax": 49.12
+    },
+    {
+      "date": "2023-03-06",
+      "priceMin": 48.66,
+      "priceMax": 48.66
+    },
+    {
+      "date": "2023-03-07",
+      "priceMin": 48.66,
+      "priceMax": 48.66
+    },
+    {
+      "date": "2023-03-09",
+      "priceMin": 48.1,
+      "priceMax": 48.1
+    },
+    {
+      "date": "2023-03-12",
+      "priceMin": 46.9,
+      "priceMax": 46.9
+    },
+    {
+      "date": "2023-03-13",
+      "priceMin": 46.55,
+      "priceMax": 46.55
+    },
+    {
+      "date": "2023-03-14",
+      "priceMin": 46.5,
+      "priceMax": 46.5
+    },
+    {
+      "date": "2023-03-16",
+      "priceMin": 47,
+      "priceMax": 47
+    },
+    {
+      "date": "2023-03-20",
+      "priceMin": 46.5,
+      "priceMax": 46.5
+    },
+    {
+      "date": "2023-03-21",
+      "priceMin": 46.15,
+      "priceMax": 46.15
+    },
+    {
+      "date": "2023-03-22",
+      "priceMin": 45.67,
+      "priceMax": 45.67
+    },
+    {
+      "date": "2023-03-23",
+      "priceMin": 46,
+      "priceMax": 46
+    },
+    {
+      "date": "2023-03-26",
+      "priceMin": 46.5,
+      "priceMax": 46.5
+    },
+    {
+      "date": "2023-03-27",
+      "priceMin": 47,
+      "priceMax": 47
+    },
+    {
+      "date": "2023-03-30",
+      "priceMin": 47.5,
+      "priceMax": 47.5
+    },
+    {
+      "date": "2023-04-03",
+      "priceMin": 47.68,
+      "priceMax": 47.68
+    },
+    {
+      "date": "2023-04-09",
+      "priceMin": 46.6,
+      "priceMax": 46.6
+    },
+    {
+      "date": "2023-04-11",
+      "priceMin": 47,
+      "priceMax": 47
+    },
+    {
+      "date": "2023-04-17",
+      "priceMin": 47.28,
+      "priceMax": 47.28
+    },
+    {
+      "date": "2023-04-25",
+      "priceMin": 47.4,
+      "priceMax": 47.4
+    },
+    {
+      "date": "2023-05-01",
+      "priceMin": 47.45,
+      "priceMax": 47.45
+    },
+    {
+      "date": "2023-05-02",
+      "priceMin": 47.47,
+      "priceMax": 47.47
+    },
+    {
+      "date": "2023-05-10",
+      "priceMin": 48.12,
+      "priceMax": 48.12
+    },
+    {
+      "date": "2023-05-11",
+      "priceMin": 48.14,
+      "priceMax": 48.14
+    },
+    {
+      "date": "2023-05-21",
+      "priceMin": 48,
+      "priceMax": 48
+    },
+    {
+      "date": "2023-05-24",
+      "priceMin": 48.02,
+      "priceMax": 48.02
+    },
+    {
+      "date": "2023-05-30",
+      "priceMin": 47.39,
+      "priceMax": 47.39
+    },
+    {
+      "date": "2023-05-31",
+      "priceMin": 46.6,
+      "priceMax": 46.6
+    },
+    {
+      "date": "2023-06-01",
+      "priceMin": 46.6,
+      "priceMax": 46.6
+    },
+    {
+      "date": "2023-06-06",
+      "priceMin": 47.27,
+      "priceMax": 47.27
+    },
+    {
+      "date": "2023-06-07",
+      "priceMin": 47,
+      "priceMax": 47
+    },
+    {
+      "date": "2023-06-08",
+      "priceMin": 47.05,
+      "priceMax": 47.05
+    },
+    {
+      "date": "2023-06-11",
+      "priceMin": 47.15,
+      "priceMax": 47.15
+    },
+    {
+      "date": "2023-06-12",
+      "priceMin": 47.01,
+      "priceMax": 47.01
+    },
+    {
+      "date": "2023-06-14",
+      "priceMin": 47.11,
+      "priceMax": 47.11
+    },
+    {
+      "date": "2023-06-19",
+      "priceMin": 47,
+      "priceMax": 47
+    },
+    {
+      "date": "2023-06-21",
+      "priceMin": 47.05,
+      "priceMax": 47.05
+    },
+    {
+      "date": "2023-06-22",
+      "priceMin": 46.65,
+      "priceMax": 46.65
+    },
+    {
+      "date": "2023-06-25",
+      "priceMin": 46.3,
+      "priceMax": 46.3
+    },
+    {
+      "date": "2023-06-26",
+      "priceMin": 46.7,
+      "priceMax": 46.7
+    },
+    {
+      "date": "2023-06-27",
+      "priceMin": 46.14,
+      "priceMax": 46.14
+    },
+    {
+      "date": "2023-06-29",
+      "priceMin": 46.24,
+      "priceMax": 46.24
+    },
+    {
+      "date": "2023-07-02",
+      "priceMin": 46.14,
+      "priceMax": 46.14
+    },
+    {
+      "date": "2023-07-03",
+      "priceMin": 46.02,
+      "priceMax": 46.02
+    },
+    {
+      "date": "2023-07-04",
+      "priceMin": 45.9,
+      "priceMax": 45.9
+    },
+    {
+      "date": "2023-07-05",
+      "priceMin": 46.16,
+      "priceMax": 46.16
+    },
+    {
+      "date": "2023-07-06",
+      "priceMin": 46.26,
+      "priceMax": 46.26
+    },
+    {
+      "date": "2023-07-09",
+      "priceMin": 45.8,
+      "priceMax": 45.8
+    },
+    {
+      "date": "2023-07-10",
+      "priceMin": 45.95,
+      "priceMax": 45.95
+    },
+    {
+      "date": "2023-07-11",
+      "priceMin": 46.05,
+      "priceMax": 46.05
+    },
+    {
+      "date": "2023-07-12",
+      "priceMin": 46.16,
+      "priceMax": 46.16
+    },
+    {
+      "date": "2023-07-13",
+      "priceMin": 46.16,
+      "priceMax": 46.16
+    },
+    {
+      "date": "2023-07-16",
+      "priceMin": 45.85,
+      "priceMax": 45.85
+    },
+    {
+      "date": "2023-07-17",
+      "priceMin": 45.1,
+      "priceMax": 45.1
+    },
+    {
+      "date": "2023-07-18",
+      "priceMin": 44.85,
+      "priceMax": 44.85
+    },
+    {
+      "date": "2023-07-19",
+      "priceMin": 44.85,
+      "priceMax": 44.85
+    },
+    {
+      "date": "2023-07-20",
+      "priceMin": 44.84,
+      "priceMax": 44.84
+    },
+    {
+      "date": "2023-07-23",
+      "priceMin": 44.6,
+      "priceMax": 44.6
+    },
+    {
+      "date": "2023-07-24",
+      "priceMin": 44.4,
+      "priceMax": 44.4
+    },
+    {
+      "date": "2023-07-25",
+      "priceMin": 44.45,
+      "priceMax": 44.45
+    },
+    {
+      "date": "2023-07-26",
+      "priceMin": 44.55,
+      "priceMax": 44.55
+    },
+    {
+      "date": "2023-08-02",
+      "priceMin": 44.2,
+      "priceMax": 44.2
+    },
+    {
+      "date": "2023-08-03",
+      "priceMin": 44.05,
+      "priceMax": 44.05
+    },
+    {
+      "date": "2023-08-06",
+      "priceMin": 43.55,
+      "priceMax": 43.55
+    },
+    {
+      "date": "2023-08-07",
+      "priceMin": 43.55,
+      "priceMax": 43.55
+    },
+    {
+      "date": "2023-08-08",
+      "priceMin": 43,
+      "priceMax": 43
+    },
+    {
+      "date": "2023-08-09",
+      "priceMin": 43,
+      "priceMax": 43
+    },
+    {
+      "date": "2023-08-10",
+      "priceMin": 43.29,
+      "priceMax": 43.29
+    },
+    {
+      "date": "2023-08-14",
+      "priceMin": 43.05,
+      "priceMax": 43.05
+    },
+    {
+      "date": "2023-08-16",
+      "priceMin": 43.06,
+      "priceMax": 43.06
+    },
+    {
+      "date": "2023-08-17",
+      "priceMin": 43.27,
+      "priceMax": 43.27
+    },
+    {
+      "date": "2023-08-20",
+      "priceMin": 43.35,
+      "priceMax": 43.35
+    },
+    {
+      "date": "2023-08-21",
+      "priceMin": 43.78,
+      "priceMax": 43.78
+    },
+    {
+      "date": "2023-08-22",
+      "priceMin": 44.05,
+      "priceMax": 44.05
+    },
+    {
+      "date": "2023-08-23",
+      "priceMin": 44.15,
+      "priceMax": 44.15
+    },
+    {
+      "date": "2023-08-24",
+      "priceMin": 44.6,
+      "priceMax": 44.6
+    },
+    {
+      "date": "2023-08-27",
+      "priceMin": 45.27,
+      "priceMax": 45.27
+    },
+    {
+      "date": "2023-08-31",
+      "priceMin": 47.1,
+      "priceMax": 47.1
+    },
+    {
+      "date": "2023-09-04",
+      "priceMin": 47.5,
+      "priceMax": 47.5
+    },
+    {
+      "date": "2023-09-06",
+      "priceMin": 48.5,
+      "priceMax": 48.5
+    },
+    {
+      "date": "2023-09-07",
+      "priceMin": 47.8,
+      "priceMax": 47.8
+    },
+    {
+      "date": "2023-09-11",
+      "priceMin": 48.3,
+      "priceMax": 48.3
+    },
+    {
+      "date": "2023-09-12",
+      "priceMin": 48.01,
+      "priceMax": 48.01
+    },
+    {
+      "date": "2023-09-13",
+      "priceMin": 48.25,
+      "priceMax": 48.25
+    },
+    {
+      "date": "2023-09-14",
+      "priceMin": 48.61,
+      "priceMax": 48.61
+    },
+    {
+      "date": "2023-09-19",
+      "priceMin": 47.9,
+      "priceMax": 47.9
+    },
+    {
+      "date": "2023-09-21",
+      "priceMin": 48.88,
+      "priceMax": 48.88
+    },
+    {
+      "date": "2023-09-25",
+      "priceMin": 49.25,
+      "priceMax": 49.25
+    },
+    {
+      "date": "2023-09-27",
+      "priceMin": 49.4,
+      "priceMax": 49.4
+    },
+    {
+      "date": "2023-09-28",
+      "priceMin": 50.15,
+      "priceMax": 50.15
+    },
+    {
+      "date": "2023-10-01",
+      "priceMin": 49.5,
+      "priceMax": 49.5
+    },
+    {
+      "date": "2023-10-02",
+      "priceMin": 49.79,
+      "priceMax": 49.79
+    },
+    {
+      "date": "2023-10-11",
+      "priceMin": 52.05,
+      "priceMax": 52.05
+    },
+    {
+      "date": "2023-10-15",
+      "priceMin": 52.5,
+      "priceMax": 52.5
+    },
+    {
+      "date": "2023-10-16",
+      "priceMin": 53.1,
+      "priceMax": 53.1
+    },
+    {
+      "date": "2023-10-18",
+      "priceMin": 55.6,
+      "priceMax": 55.6
+    },
+    {
+      "date": "2023-10-19",
+      "priceMin": 55.77,
+      "priceMax": 55.77
+    },
+    {
+      "date": "2023-10-23",
+      "priceMin": 55.55,
+      "priceMax": 55.55
+    },
+    {
+      "date": "2023-10-26",
+      "priceMin": 54.66,
+      "priceMax": 54.66
+    },
+    {
+      "date": "2023-10-29",
+      "priceMin": 53.9,
+      "priceMax": 53.9
+    },
+    {
+      "date": "2023-10-30",
+      "priceMin": 53.36,
+      "priceMax": 53.36
+    },
+    {
+      "date": "2023-11-02",
+      "priceMin": 52.9,
+      "priceMax": 52.9
+    },
+    {
+      "date": "2023-11-06",
+      "priceMin": 52.6,
+      "priceMax": 52.6
+    },
+    {
+      "date": "2023-11-08",
+      "priceMin": 52.16,
+      "priceMax": 52.16
+    },
+    {
+      "date": "2023-11-09",
+      "priceMin": 52.85,
+      "priceMax": 52.85
+    },
+    {
+      "date": "2023-11-13",
+      "priceMin": 52.7,
+      "priceMax": 52.7
+    },
+    {
+      "date": "2023-11-14",
+      "priceMin": 53.05,
+      "priceMax": 53.05
+    },
+    {
+      "date": "2023-11-15",
+      "priceMin": 53.45,
+      "priceMax": 53.45
+    },
+    {
+      "date": "2023-11-16",
+      "priceMin": 53.22,
+      "priceMax": 53.22
+    },
+    {
+      "date": "2023-11-19",
+      "priceMin": 53.11,
+      "priceMax": 53.11
+    },
+    {
+      "date": "2023-11-21",
+      "priceMin": 52.65,
+      "priceMax": 52.65
+    },
+    {
+      "date": "2023-11-29",
+      "priceMin": 52.6,
+      "priceMax": 52.6
+    },
+    {
+      "date": "2023-11-30",
+      "priceMin": 52.51,
+      "priceMax": 52.51
+    },
+    {
+      "date": "2023-12-03",
+      "priceMin": 52.85,
+      "priceMax": 52.85
+    },
+    {
+      "date": "2023-12-05",
+      "priceMin": 52.85,
+      "priceMax": 52.85
+    },
+    {
+      "date": "2023-12-14",
+      "priceMin": 51.92,
+      "priceMax": 51.92
+    },
+    {
+      "date": "2023-12-17",
+      "priceMin": 52.11,
+      "priceMax": 52.11
+    },
+    {
+      "date": "2023-12-18",
+      "priceMin": 52.11,
+      "priceMax": 52.11
+    },
+    {
+      "date": "2023-12-20",
+      "priceMin": 52.39,
+      "priceMax": 52.39
+    },
+    {
+      "date": "2023-12-21",
+      "priceMin": 53.03,
+      "priceMax": 53.03
+    },
+    {
+      "date": "2023-12-24",
+      "priceMin": 53.66,
+      "priceMax": 53.66
+    },
+    {
+      "date": "2023-12-25",
+      "priceMin": 53.55,
+      "priceMax": 53.55
+    },
+    {
+      "date": "2024-01-01",
+      "priceMin": 54.6,
+      "priceMax": 54.6
+    },
+    {
+      "date": "2024-01-03",
+      "priceMin": 54.7,
+      "priceMax": 54.7
+    },
+    {
+      "date": "2024-01-04",
+      "priceMin": 55.32,
+      "priceMax": 55.32
+    },
+    {
+      "date": "2024-01-07",
+      "priceMin": 54.9,
+      "priceMax": 54.9
+    },
+    {
+      "date": "2024-01-08",
+      "priceMin": 54.6,
+      "priceMax": 54.6
+    },
+    {
+      "date": "2024-01-11",
+      "priceMin": 55.9,
+      "priceMax": 55.9
+    },
+    {
+      "date": "2024-01-14",
+      "priceMin": 58.28,
+      "priceMax": 58.28
+    },
+    {
+      "date": "2024-01-18",
+      "priceMin": 60.3,
+      "priceMax": 60.3
+    },
+    {
+      "date": "2024-01-21",
+      "priceMin": 61.25,
+      "priceMax": 61.25
+    },
+    {
+      "date": "2024-01-22",
+      "priceMin": 61.58,
+      "priceMax": 61.58
+    },
+    {
+      "date": "2024-01-25",
+      "priceMin": 65.56,
+      "priceMax": 65.56
+    },
+    {
+      "date": "2024-01-29",
+      "priceMin": 67.33,
+      "priceMax": 67.33
+    },
+    {
+      "date": "2024-01-30",
+      "priceMin": 68.38,
+      "priceMax": 68.38
+    },
+    {
+      "date": "2024-01-31",
+      "priceMin": 70.05,
+      "priceMax": 70.05
+    },
+    {
+      "date": "2024-02-01",
+      "priceMin": 70.25,
+      "priceMax": 70.25
+    },
+    {
+      "date": "2024-02-04",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2024-02-06",
+      "priceMin": 69.8,
+      "priceMax": 69.8
+    },
+    {
+      "date": "2024-02-07",
+      "priceMin": 69.01,
+      "priceMax": 69.01
+    },
+    {
+      "date": "2024-02-12",
+      "priceMin": 68.52,
+      "priceMax": 68.52
+    },
+    {
+      "date": "2024-02-14",
+      "priceMin": 69.18,
+      "priceMax": 69.18
+    },
+    {
+      "date": "2024-02-15",
+      "priceMin": 70.23,
+      "priceMax": 70.23
+    },
+    {
+      "date": "2024-02-18",
+      "priceMin": 70.35,
+      "priceMax": 70.35
+    },
+    {
+      "date": "2024-02-20",
+      "priceMin": 70.8,
+      "priceMax": 70.8
+    },
+    {
+      "date": "2024-02-21",
+      "priceMin": 72.38,
+      "priceMax": 72.38
+    },
+    {
+      "date": "2024-02-22",
+      "priceMin": 72.9,
+      "priceMax": 72.9
+    },
+    {
+      "date": "2024-02-27",
+      "priceMin": 74.02,
+      "priceMax": 74.02
+    },
+    {
+      "date": "2024-02-28",
+      "priceMin": 74.38,
+      "priceMax": 74.38
+    },
+    {
+      "date": "2024-02-29",
+      "priceMin": 74.72,
+      "priceMax": 74.72
+    },
+    {
+      "date": "2024-03-03",
+      "priceMin": 74.59,
+      "priceMax": 74.59
+    },
+    {
+      "date": "2024-03-06",
+      "priceMin": 78.88,
+      "priceMax": 78.88
+    },
+    {
+      "date": "2024-03-10",
+      "priceMin": 80.02,
+      "priceMax": 80.02
+    },
+    {
+      "date": "2024-03-12",
+      "priceMin": 84.65,
+      "priceMax": 84.65
+    },
+    {
+      "date": "2024-03-13",
+      "priceMin": 85.45,
+      "priceMax": 85.45
+    },
+    {
+      "date": "2024-03-17",
+      "priceMin": 86.22,
+      "priceMax": 86.22
+    },
+    {
+      "date": "2024-03-18",
+      "priceMin": 87.88,
+      "priceMax": 87.88
+    },
+    {
+      "date": "2024-03-19",
+      "priceMin": 88.02,
+      "priceMax": 88.02
+    },
+    {
+      "date": "2024-03-20",
+      "priceMin": 87,
+      "priceMax": 87
+    },
+    {
+      "date": "2024-03-21",
+      "priceMin": 85.89,
+      "priceMax": 85.89
+    },
+    {
+      "date": "2024-03-24",
+      "priceMin": 84.8,
+      "priceMax": 84.8
+    },
+    {
+      "date": "2024-03-25",
+      "priceMin": 83.85,
+      "priceMax": 83.85
+    },
+    {
+      "date": "2024-03-26",
+      "priceMin": 83.15,
+      "priceMax": 83.15
+    },
+    {
+      "date": "2024-03-31",
+      "priceMin": 83.35,
+      "priceMax": 83.35
+    },
+    {
+      "date": "2024-04-03",
+      "priceMin": 82.92,
+      "priceMax": 82.92
+    },
+    {
+      "date": "2024-04-08",
+      "priceMin": 81.96,
+      "priceMax": 81.96
+    },
+    {
+      "date": "2024-04-21",
+      "priceMin": 77,
+      "priceMax": 77
+    },
+    {
+      "date": "2024-04-23",
+      "priceMin": 75.38,
+      "priceMax": 75.38
+    },
+    {
+      "date": "2024-04-28",
+      "priceMin": 74.88,
+      "priceMax": 74.88
+    },
+    {
+      "date": "2024-05-02",
+      "priceMin": 74.88,
+      "priceMax": 74.88
+    },
+    {
+      "date": "2024-05-08",
+      "priceMin": 74.08,
+      "priceMax": 74.08
+    },
+    {
+      "date": "2024-05-22",
+      "priceMin": 80.28,
+      "priceMax": 80.28
+    },
+    {
+      "date": "2024-05-23",
+      "priceMin": 79.8,
+      "priceMax": 79.8
+    },
+    {
+      "date": "2024-05-30",
+      "priceMin": 83.05,
+      "priceMax": 83.05
+    },
+    {
+      "date": "2024-06-03",
+      "priceMin": 82.85,
+      "priceMax": 82.85
+    },
+    {
+      "date": "2024-06-06",
+      "priceMin": 83.55,
+      "priceMax": 83.55
+    },
+    {
+      "date": "2024-06-11",
+      "priceMin": 82.88,
+      "priceMax": 82.88
+    },
+    {
+      "date": "2024-06-12",
+      "priceMin": 82.88,
+      "priceMax": 82.88
+    },
+    {
+      "date": "2024-06-13",
+      "priceMin": 81.22,
+      "priceMax": 81.22
+    },
+    {
+      "date": "2024-06-17",
+      "priceMin": 78.28,
+      "priceMax": 78.28
+    },
+    {
+      "date": "2024-06-18",
+      "priceMin": 77.88,
+      "priceMax": 77.88
+    },
+    {
+      "date": "2024-06-20",
+      "priceMin": 73.88,
+      "priceMax": 73.88
+    },
+    {
+      "date": "2024-06-23",
+      "priceMin": 72.05,
+      "priceMax": 72.05
+    },
+    {
+      "date": "2024-06-26",
+      "priceMin": 72.68,
+      "priceMax": 72.68
+    },
+    {
+      "date": "2024-06-27",
+      "priceMin": 72.38,
+      "priceMax": 72.38
+    },
+    {
+      "date": "2024-07-02",
+      "priceMin": 69.05,
+      "priceMax": 69.05
+    },
+    {
+      "date": "2024-07-03",
+      "priceMin": 68.28,
+      "priceMax": 68.28
+    },
+    {
+      "date": "2024-07-08",
+      "priceMin": 64.52,
+      "priceMax": 64.52
+    },
+    {
+      "date": "2024-07-09",
+      "priceMin": 64.02,
+      "priceMax": 64.02
+    },
+    {
+      "date": "2024-07-10",
+      "priceMin": 64.2,
+      "priceMax": 64.2
+    },
+    {
+      "date": "2024-07-15",
+      "priceMin": 64.88,
+      "priceMax": 64.88
+    },
+    {
+      "date": "2024-07-16",
+      "priceMin": 64.3,
+      "priceMax": 64.3
+    },
+    {
+      "date": "2024-07-17",
+      "priceMin": 64.38,
+      "priceMax": 64.38
+    },
+    {
+      "date": "2024-07-18",
+      "priceMin": 64.65,
+      "priceMax": 64.65
+    },
+    {
+      "date": "2024-07-22",
+      "priceMin": 64.75,
+      "priceMax": 64.75
+    },
+    {
+      "date": "2024-07-23",
+      "priceMin": 65.68,
+      "priceMax": 65.68
+    },
+    {
+      "date": "2024-07-24",
+      "priceMin": 65.36,
+      "priceMax": 65.36
+    },
+    {
+      "date": "2024-07-25",
+      "priceMin": 65.88,
+      "priceMax": 65.88
+    },
+    {
+      "date": "2024-07-29",
+      "priceMin": 66.26,
+      "priceMax": 66.26
+    },
+    {
+      "date": "2024-07-30",
+      "priceMin": 66.88,
+      "priceMax": 66.88
+    },
+    {
+      "date": "2024-07-31",
+      "priceMin": 67.25,
+      "priceMax": 67.25
+    },
+    {
+      "date": "2024-08-01",
+      "priceMin": 68.39,
+      "priceMax": 68.39
+    },
+    {
+      "date": "2024-08-06",
+      "priceMin": 72.91,
+      "priceMax": 72.91
+    },
+    {
+      "date": "2024-08-07",
+      "priceMin": 73.88,
+      "priceMax": 73.88
+    },
+    {
+      "date": "2024-08-08",
+      "priceMin": 74.58,
+      "priceMax": 74.58
+    },
+    {
+      "date": "2024-08-12",
+      "priceMin": 75.66,
+      "priceMax": 75.66
+    },
+    {
+      "date": "2024-08-13",
+      "priceMin": 75.25,
+      "priceMax": 75.25
+    },
+    {
+      "date": "2024-08-14",
+      "priceMin": 74.25,
+      "priceMax": 74.25
+    },
+    {
+      "date": "2024-08-15",
+      "priceMin": 74.78,
+      "priceMax": 74.78
+    },
+    {
+      "date": "2024-08-20",
+      "priceMin": 74.88,
+      "priceMax": 74.88
+    },
+    {
+      "date": "2024-08-21",
+      "priceMin": 75.22,
+      "priceMax": 75.22
+    },
+    {
+      "date": "2024-08-25",
+      "priceMin": 77.2,
+      "priceMax": 77.2
+    },
+    {
+      "date": "2024-08-26",
+      "priceMin": 78.03,
+      "priceMax": 78.03
+    },
+    {
+      "date": "2024-08-27",
+      "priceMin": 80.07,
+      "priceMax": 80.07
+    },
+    {
+      "date": "2024-08-29",
+      "priceMin": 82.82,
+      "priceMax": 82.82
+    },
+    {
+      "date": "2024-09-01",
+      "priceMin": 81,
+      "priceMax": 81
+    },
+    {
+      "date": "2024-09-03",
+      "priceMin": 79.22,
+      "priceMax": 79.22
+    },
+    {
+      "date": "2024-09-04",
+      "priceMin": 79.69,
+      "priceMax": 79.69
+    },
+    {
+      "date": "2024-09-12",
+      "priceMin": 81.88,
+      "priceMax": 81.88
+    },
+    {
+      "date": "2024-09-15",
+      "priceMin": 81.78,
+      "priceMax": 81.78
+    },
+    {
+      "date": "2024-09-16",
+      "priceMin": 82.6,
+      "priceMax": 82.6
+    },
+    {
+      "date": "2024-09-17",
+      "priceMin": 82.92,
+      "priceMax": 82.92
+    },
+    {
+      "date": "2024-09-18",
+      "priceMin": 83.88,
+      "priceMax": 83.88
+    },
+    {
+      "date": "2024-09-19",
+      "priceMin": 83.45,
+      "priceMax": 83.45
+    },
+    {
+      "date": "2024-09-23",
+      "priceMin": 81.59,
+      "priceMax": 81.59
+    },
+    {
+      "date": "2024-09-24",
+      "priceMin": 83.38,
+      "priceMax": 83.38
+    },
+    {
+      "date": "2024-09-26",
+      "priceMin": 84,
+      "priceMax": 84
+    },
+    {
+      "date": "2024-09-29",
+      "priceMin": 84.06,
+      "priceMax": 84.06
+    },
+    {
+      "date": "2024-10-06",
+      "priceMin": 84.5,
+      "priceMax": 84.5
+    },
+    {
+      "date": "2024-10-08",
+      "priceMin": 81.89,
+      "priceMax": 81.89
+    },
+    {
+      "date": "2024-10-09",
+      "priceMin": 83,
+      "priceMax": 83
+    },
+    {
+      "date": "2024-10-14",
+      "priceMin": 80.06,
+      "priceMax": 80.06
+    },
+    {
+      "date": "2024-10-20",
+      "priceMin": 77.8,
+      "priceMax": 77.8
+    },
+    {
+      "date": "2024-10-27",
+      "priceMin": 74,
+      "priceMax": 74
+    },
+    {
+      "date": "2024-10-28",
+      "priceMin": 73,
+      "priceMax": 73
+    },
+    {
+      "date": "2024-10-29",
+      "priceMin": 71,
+      "priceMax": 71
+    },
+    {
+      "date": "2024-10-30",
+      "priceMin": 70.5,
+      "priceMax": 70.5
+    },
+    {
+      "date": "2024-10-31",
+      "priceMin": 70,
+      "priceMax": 70
+    },
+    {
+      "date": "2024-11-04",
+      "priceMin": 69,
+      "priceMax": 69
+    },
+    {
+      "date": "2024-11-11",
+      "priceMin": 71.75,
+      "priceMax": 71.75
+    },
+    {
+      "date": "2024-11-12",
+      "priceMin": 71.5,
+      "priceMax": 71.5
+    },
+    {
+      "date": "2024-11-13",
+      "priceMin": 71,
+      "priceMax": 71
+    },
+    {
+      "date": "2024-11-18",
+      "priceMin": 69.5,
+      "priceMax": 69.5
+    },
+    {
+      "date": "2024-11-19",
+      "priceMin": 69,
+      "priceMax": 69
+    },
+    {
+      "date": "2024-11-21",
+      "priceMin": 70.5,
+      "priceMax": 70.5
+    },
+    {
+      "date": "2024-12-02",
+      "priceMin": 72.01,
+      "priceMax": 72.01
+    },
+    {
+      "date": "2024-12-03",
+      "priceMin": 72.45,
+      "priceMax": 72.45
+    },
+    {
+      "date": "2024-12-08",
+      "priceMin": 72.6,
+      "priceMax": 72.6
+    },
+    {
+      "date": "2024-12-10",
+      "priceMin": 72.15,
+      "priceMax": 72.15
+    },
+    {
+      "date": "2024-12-16",
+      "priceMin": 74.2,
+      "priceMax": 74.2
+    },
+    {
+      "date": "2024-12-24",
+      "priceMin": 69.11,
+      "priceMax": 69.11
+    },
+    {
+      "date": "2024-12-25",
+      "priceMin": 68.59,
+      "priceMax": 68.59
+    },
+    {
+      "date": "2024-12-26",
+      "priceMin": 69.09,
+      "priceMax": 69.09
+    },
+    {
+      "date": "2025-01-02",
+      "priceMin": 68.3,
+      "priceMax": 68.3
+    },
+    {
+      "date": "2025-01-06",
+      "priceMin": 65.8,
+      "priceMax": 65.8
+    },
+    {
+      "date": "2025-01-07",
+      "priceMin": 65.15,
+      "priceMax": 65.15
+    },
+    {
+      "date": "2025-01-08",
+      "priceMin": 65.15,
+      "priceMax": 65.15
+    },
+    {
+      "date": "2025-01-12",
+      "priceMin": 67.8,
+      "priceMax": 67.8
+    },
+    {
+      "date": "2025-01-13",
+      "priceMin": 70.02,
+      "priceMax": 70.02
+    },
+    {
+      "date": "2025-01-14",
+      "priceMin": 72.6,
+      "priceMax": 72.6
+    },
+    {
+      "date": "2025-01-16",
+      "priceMin": 73.93,
+      "priceMax": 73.93
+    },
+    {
+      "date": "2025-01-20",
+      "priceMin": 72.3,
+      "priceMax": 72.3
+    },
+    {
+      "date": "2025-01-22",
+      "priceMin": 70.65,
+      "priceMax": 70.65
+    },
+    {
+      "date": "2025-01-23",
+      "priceMin": 71.86,
+      "priceMax": 71.86
+    },
+    {
+      "date": "2025-01-26",
+      "priceMin": 71.86,
+      "priceMax": 71.86
+    },
+    {
+      "date": "2025-01-30",
+      "priceMin": 73.75,
+      "priceMax": 73.75
+    },
+    {
+      "date": "2025-02-03",
+      "priceMin": 72.05,
+      "priceMax": 72.05
+    },
+    {
+      "date": "2025-02-04",
+      "priceMin": 71.12,
+      "priceMax": 71.12
+    },
+    {
+      "date": "2025-02-05",
+      "priceMin": 70.4,
+      "priceMax": 70.4
+    },
+    {
+      "date": "2025-02-06",
+      "priceMin": 70.55,
+      "priceMax": 70.55
+    },
+    {
+      "date": "2025-02-09",
+      "priceMin": 69.35,
+      "priceMax": 69.35
+    },
+    {
+      "date": "2025-02-10",
+      "priceMin": 68.8,
+      "priceMax": 68.8
+    },
+    {
+      "date": "2025-02-13",
+      "priceMin": 70.85,
+      "priceMax": 70.85
+    },
+    {
+      "date": "2025-02-16",
+      "priceMin": 70.2,
+      "priceMax": 70.2
+    },
+    {
+      "date": "2025-02-17",
+      "priceMin": 70.99,
+      "priceMax": 70.99
+    },
+    {
+      "date": "2025-02-18",
+      "priceMin": 69.7,
+      "priceMax": 69.7
+    },
+    {
+      "date": "2025-02-19",
+      "priceMin": 70.07,
+      "priceMax": 70.07
+    },
+    {
+      "date": "2025-02-20",
+      "priceMin": 70.09,
+      "priceMax": 70.09
+    },
+    {
+      "date": "2025-02-23",
+      "priceMin": 69.7,
+      "priceMax": 69.7
+    },
+    {
+      "date": "2025-02-24",
+      "priceMin": 69.9,
+      "priceMax": 69.9
+    },
+    {
+      "date": "2025-02-25",
+      "priceMin": 68.92,
+      "priceMax": 68.92
+    },
+    {
+      "date": "2025-02-26",
+      "priceMin": 68.55,
+      "priceMax": 68.55
+    },
+    {
+      "date": "2025-02-27",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2025-03-02",
+      "priceMin": 68.99,
+      "priceMax": 68.99
+    },
+    {
+      "date": "2025-03-03",
+      "priceMin": 68.4,
+      "priceMax": 68.4
+    },
+    {
+      "date": "2025-03-04",
+      "priceMin": 67.89,
+      "priceMax": 67.89
+    },
+    {
+      "date": "2025-03-05",
+      "priceMin": 67.63,
+      "priceMax": 67.63
+    },
+    {
+      "date": "2025-03-06",
+      "priceMin": 67.39,
+      "priceMax": 67.39
+    },
+    {
+      "date": "2025-03-09",
+      "priceMin": 66.95,
+      "priceMax": 66.95
+    },
+    {
+      "date": "2025-03-11",
+      "priceMin": 66.35,
+      "priceMax": 66.35
+    },
+    {
+      "date": "2025-03-12",
+      "priceMin": 65.75,
+      "priceMax": 65.75
+    },
+    {
+      "date": "2025-03-13",
+      "priceMin": 67.2,
+      "priceMax": 67.2
+    },
+    {
+      "date": "2025-03-17",
+      "priceMin": 68.13,
+      "priceMax": 68.13
+    },
+    {
+      "date": "2025-03-18",
+      "priceMin": 68.99,
+      "priceMax": 68.99
+    },
+    {
+      "date": "2025-03-19",
+      "priceMin": 68.54,
+      "priceMax": 68.54
+    },
+    {
+      "date": "2025-03-24",
+      "priceMin": 71.15,
+      "priceMax": 71.15
+    },
+    {
+      "date": "2025-03-26",
+      "priceMin": 71.02,
+      "priceMax": 71.02
+    },
+    {
+      "date": "2025-03-27",
+      "priceMin": 70.75,
+      "priceMax": 70.75
+    },
+    {
+      "date": "2025-04-07",
+      "priceMin": 56.22,
+      "priceMax": 56.22
+    },
+    {
+      "date": "2025-04-09",
+      "priceMin": 58.01,
+      "priceMax": 58.01
+    },
+    {
+      "date": "2025-04-20",
+      "priceMin": 61.67,
+      "priceMax": 61.67
+    },
+    {
+      "date": "2025-04-21",
+      "priceMin": 62.67,
+      "priceMax": 62.67
+    },
+    {
+      "date": "2025-05-20",
+      "priceMin": 66,
+      "priceMax": 66
+    },
+    {
+      "date": "2025-05-26",
+      "priceMin": 64.82,
+      "priceMax": 64.82
+    },
+    {
+      "date": "2025-06-03",
+      "priceMin": 61.69,
+      "priceMax": 61.69
+    },
+    {
+      "date": "2025-06-04",
+      "priceMin": 61.89,
+      "priceMax": 61.89
+    },
+    {
+      "date": "2025-06-05",
+      "priceMin": 62.26,
+      "priceMax": 62.26
+    },
+    {
+      "date": "2025-06-09",
+      "priceMin": 63.66,
+      "priceMax": 63.66
+    },
+    {
+      "date": "2025-06-12",
+      "priceMin": 64.39,
+      "priceMax": 64.39
+    },
+    {
+      "date": "2025-06-17",
+      "priceMin": 64.69,
+      "priceMax": 64.69
+    },
+    {
+      "date": "2025-06-19",
+      "priceMin": 63.77,
+      "priceMax": 63.77
+    },
+    {
+      "date": "2025-06-24",
+      "priceMin": 62.31,
+      "priceMax": 62.31
+    },
+    {
+      "date": "2025-06-25",
+      "priceMin": 62.6,
+      "priceMax": 62.6
+    },
+    {
+      "date": "2025-06-26",
+      "priceMin": 63,
+      "priceMax": 63
+    },
+    {
+      "date": "2025-07-01",
+      "priceMin": 62.31,
+      "priceMax": 62.31
+    },
+    {
+      "date": "2025-07-03",
+      "priceMin": 62.52,
+      "priceMax": 62.52
+    },
+    {
+      "date": "2025-07-06",
+      "priceMin": 62,
+      "priceMax": 62
+    },
+    {
+      "date": "2025-07-07",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2025-07-14",
+      "priceMin": 61.6,
+      "priceMax": 61.6
+    },
+    {
+      "date": "2025-07-15",
+      "priceMin": 62.55,
+      "priceMax": 62.55
+    },
+    {
+      "date": "2025-07-17",
+      "priceMin": 63.05,
+      "priceMax": 63.05
+    },
+    {
+      "date": "2025-07-20",
+      "priceMin": 63.25,
+      "priceMax": 63.25
+    },
+    {
+      "date": "2025-07-21",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2025-07-22",
+      "priceMin": 63.55,
+      "priceMax": 63.55
+    },
+    {
+      "date": "2025-07-24",
+      "priceMin": 63.11,
+      "priceMax": 63.11
+    },
+    {
+      "date": "2025-07-28",
+      "priceMin": 62.01,
+      "priceMax": 62.01
+    },
+    {
+      "date": "2025-07-31",
+      "priceMin": 57.9,
+      "priceMax": 57.9
+    },
+    {
+      "date": "2025-08-03",
+      "priceMin": 57.6,
+      "priceMax": 57.6
+    },
+    {
+      "date": "2025-08-05",
+      "priceMin": 58.7,
+      "priceMax": 58.7
+    },
+    {
+      "date": "2025-08-06",
+      "priceMin": 58.55,
+      "priceMax": 58.55
+    },
+    {
+      "date": "2025-08-07",
+      "priceMin": 58.65,
+      "priceMax": 58.65
+    },
+    {
+      "date": "2025-08-12",
+      "priceMin": 58.9,
+      "priceMax": 58.9
+    },
+    {
+      "date": "2025-08-14",
+      "priceMin": 59.25,
+      "priceMax": 59.25
+    },
+    {
+      "date": "2025-08-18",
+      "priceMin": 58.32,
+      "priceMax": 58.32
+    },
+    {
+      "date": "2025-08-20",
+      "priceMin": 57.23,
+      "priceMax": 57.23
+    },
+    {
+      "date": "2025-08-21",
+      "priceMin": 57.6,
+      "priceMax": 57.6
+    },
+    {
+      "date": "2025-08-24",
+      "priceMin": 58.33,
+      "priceMax": 58.33
+    },
+    {
+      "date": "2025-08-25",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2025-08-26",
+      "priceMin": 58.9,
+      "priceMax": 58.9
+    },
+    {
+      "date": "2025-08-27",
+      "priceMin": 58.7,
+      "priceMax": 58.7
+    },
+    {
+      "date": "2025-08-28",
+      "priceMin": 58.58,
+      "priceMax": 58.58
+    },
+    {
+      "date": "2025-08-31",
+      "priceMin": 58.35,
+      "priceMax": 58.35
+    },
+    {
+      "date": "2025-09-03",
+      "priceMin": 58.5,
+      "priceMax": 58.5
+    },
+    {
+      "date": "2025-09-04",
+      "priceMin": 58.67,
+      "priceMax": 58.67
+    },
+    {
+      "date": "2025-09-08",
+      "priceMin": 58.45,
+      "priceMax": 58.45
+    },
+    {
+      "date": "2025-09-09",
+      "priceMin": 58.3,
+      "priceMax": 58.3
+    },
+    {
+      "date": "2025-09-11",
+      "priceMin": 58.05,
+      "priceMax": 58.05
+    },
+    {
+      "date": "2025-09-14",
+      "priceMin": 57.8,
+      "priceMax": 57.8
+    },
+    {
+      "date": "2025-09-18",
+      "priceMin": 57.3,
+      "priceMax": 57.3
+    },
+    {
+      "date": "2025-09-22",
+      "priceMin": 57.3,
+      "priceMax": 57.3
+    },
+    {
+      "date": "2025-09-25",
+      "priceMin": 56.81,
+      "priceMax": 56.81
+    },
+    {
+      "date": "2025-09-29",
+      "priceMin": 56.11,
+      "priceMax": 56.11
+    },
+    {
+      "date": "2025-10-05",
+      "priceMin": 55.25,
+      "priceMax": 55.25
+    },
+    {
+      "date": "2025-10-07",
+      "priceMin": 54.62,
+      "priceMax": 54.62
+    },
+    {
+      "date": "2025-10-09",
+      "priceMin": 55.1,
+      "priceMax": 55.1
+    },
+    {
+      "date": "2025-10-14",
+      "priceMin": 54.2,
+      "priceMax": 54.2
+    },
+    {
+      "date": "2025-10-19",
+      "priceMin": 54.01,
+      "priceMax": 54.01
+    },
+    {
+      "date": "2025-10-21",
+      "priceMin": 54.56,
+      "priceMax": 54.56
+    },
+    {
+      "date": "2025-10-23",
+      "priceMin": 54.89,
+      "priceMax": 54.89
+    },
+    {
+      "date": "2025-10-27",
+      "priceMin": 56.15,
+      "priceMax": 56.15
+    },
+    {
+      "date": "2025-10-28",
+      "priceMin": 55.6,
+      "priceMax": 55.6
+    },
+    {
+      "date": "2025-10-30",
+      "priceMin": 55.35,
+      "priceMax": 55.35
+    },
+    {
+      "date": "2025-11-06",
+      "priceMin": 55.55,
+      "priceMax": 55.55
+    },
+    {
+      "date": "2025-11-09",
+      "priceMin": 55.66,
+      "priceMax": 55.66
+    },
+    {
+      "date": "2025-11-13",
+      "priceMin": 56.1,
+      "priceMax": 56.1
+    },
+    {
+      "date": "2025-11-17",
+      "priceMin": 56.3,
+      "priceMax": 56.3
+    },
+    {
+      "date": "2025-11-18",
+      "priceMin": 57.15,
+      "priceMax": 57.15
+    },
+    {
+      "date": "2025-11-19",
+      "priceMin": 0,
+      "priceMax": 0
+    },
+    {
+      "date": "2025-12-03",
+      "priceMin": 55.75,
+      "priceMax": 55.75
+    }
+  ]
+}

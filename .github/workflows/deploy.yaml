@@ -1,0 +1,66 @@
+name: Deploy Next.js Application
+
+on:
+    push:
+        branches: [main]
+    workflow_dispatch:
+        # Manual trigger
+
+jobs:
+    build-and-deploy:
+        runs-on: orangepi
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v3
+
+            - name: Clean installation
+              run: |
+                  if [ -d "node_modules" ]; then
+                    echo "Removing existing node_modules directory"
+                    rm -rf node_modules
+                  fi
+
+            - name: Install dependencies
+              run: bun install --frozen-lockfile || bun install --no-frozen-lockfile
+
+            - name: Create .env file
+              run: |
+                  shortSha=$(git rev-parse --short ${{ github.sha }})
+                  echo "NODE_ENV=production" >> .env
+                  echo "GIT_COMMIT=$shortSha" >> .env
+
+            - name: Build
+              run: nohup bun run build
+
+            - name: Cache Next.js build
+              uses: actions/cache@v3
+              with:
+                  path: |
+                      .next/cache
+                  key: ${{ runner.os }}-nextjs-${{ hashFiles('**/bun.lock') }}
+
+            - name: Stop existing pm2 process
+              continue-on-error: true
+              run: |
+                  # Check if the process exists before trying to stop
+                  if nohup pm2 list | grep -q "final-proj-demo"; then
+                    nohup pm2 stop final-proj-demo
+                    nohup pm2 delete final-proj-demo
+                  fi
+
+            - name: Deploy application
+              run: |
+                  # Start the new application using nohup pm2
+                  nohup pm2 start ecosystem.config.js
+
+                  # Save the nohup pm2 configuration
+                  nohup pm2 save
+
+            - name: Verify deployment
+              run: |
+                  echo "Deployment completed successfully"
+                  echo "Application is running on OrangePi"
+
+                  # List pm2 processes
+                  nohup pm2 list
