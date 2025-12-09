@@ -1,7 +1,7 @@
 {
-  "id": 14,
+  "id": 6,
   "productCode": "R11001",
-  "productName": "White Rice 100% Wholesale",
+  "productName": "White Rice 100% Grade 1",
   "category": "Rice",
   "saleType": "Wholesale",
   "priceHistory": [
@@ -3026,6 +3026,11 @@
       "priceMax": 1560
     },
     {
+      "date": "2022-07-07",
+      "priceMin": 21,
+      "priceMax": 25
+    },
+    {
       "date": "2022-07-10",
       "priceMin": 1530,
       "priceMax": 1540
@@ -4339,6 +4344,11 @@
       "date": "2023-08-22",
       "priceMin": 2250,
       "priceMax": 2260
+    },
+    {
+      "date": "2023-08-23",
+      "priceMin": 25,
+      "priceMax": 30
     },
     {
       "date": "2023-08-24",

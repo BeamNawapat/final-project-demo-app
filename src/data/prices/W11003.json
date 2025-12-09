@@ -1,1204 +1,2404 @@
 {
-  "id": 22,
+  "id": 14,
   "productCode": "W11003",
-  "productName": "Live Pigs General Grade",
-  "category": "Livestock",
+  "productName": "Live Pigs General",
+  "category": "Meat",
   "saleType": "Wholesale",
   "priceHistory": [
     {
+      "date": "2020-01-01",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-01-02",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-01-05",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-01-06",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-01-07",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-01-08",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-01-09",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-12",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-13",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-14",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-15",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-16",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-19",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-20",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-21",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-22",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-23",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-26",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-27",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-28",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-29",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-01-30",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-02-02",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-02-03",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-02-04",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-02-05",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-02-06",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-02-10",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-02-11",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-02-12",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-02-13",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-02-16",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-02-17",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-02-18",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-02-19",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-02-20",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-02-23",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-02-24",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-02-25",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-02-26",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-02-27",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-03-01",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-03-02",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-03-03",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-03-04",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-03-05",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-03-08",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-09",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-10",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-11",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-12",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-15",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-16",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-03-17",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-03-18",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-03-19",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-03-22",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-03-23",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-24",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-25",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-26",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-29",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-30",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-03-31",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-04-01",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-04-02",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-04-06",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-04-07",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-08",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-09",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-12",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-13",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-14",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-15",
+      "priceMin": 64,
+      "priceMax": 65
+    },
+    {
+      "date": "2020-04-16",
+      "priceMin": 64,
+      "priceMax": 65
+    },
+    {
+      "date": "2020-04-19",
+      "priceMin": 64,
+      "priceMax": 65
+    },
+    {
+      "date": "2020-04-20",
+      "priceMin": 64,
+      "priceMax": 65
+    },
+    {
+      "date": "2020-04-21",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-22",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-23",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-26",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-27",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-28",
+      "priceMin": 66,
+      "priceMax": 67
+    },
+    {
+      "date": "2020-04-29",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-04-30",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-05-04",
+      "priceMin": 68,
+      "priceMax": 69
+    },
+    {
+      "date": "2020-05-06",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-07",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-11",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-12",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-13",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-14",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-17",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-18",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-19",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-20",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-21",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-24",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-25",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-26",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-27",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-28",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-05-31",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-06-01",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-06-03",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-06-04",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-06-07",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-06-08",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-06-09",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-06-10",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-06-11",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-06-14",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-15",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-16",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-17",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-18",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-21",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-22",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-23",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-24",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-25",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-06-28",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
+      "date": "2020-06-29",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
+      "date": "2020-06-30",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
+      "date": "2020-07-01",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
+      "date": "2020-07-02",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
+      "date": "2020-07-07",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-07-08",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-07-09",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-07-12",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-07-13",
+      "priceMin": 80,
+      "priceMax": 81
+    },
+    {
+      "date": "2020-07-14",
+      "priceMin": 80,
+      "priceMax": 81
+    },
+    {
+      "date": "2020-07-15",
+      "priceMin": 80,
+      "priceMax": 81
+    },
+    {
+      "date": "2020-07-16",
+      "priceMin": 80,
+      "priceMax": 81
+    },
+    {
+      "date": "2020-07-19",
+      "priceMin": 80,
+      "priceMax": 81
+    },
+    {
+      "date": "2020-07-20",
+      "priceMin": 80,
+      "priceMax": 81
+    },
+    {
+      "date": "2020-07-21",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-07-22",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-07-23",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-07-28",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-07-29",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-07-30",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-02",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-03",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-04",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-05",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-06",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-09",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-10",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-12",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-13",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-16",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-17",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-18",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-19",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-20",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-23",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-24",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-25",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-26",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-27",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-30",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-08-31",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-01",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-02",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-07",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-08",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-09",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-10",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-13",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-14",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-15",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-16",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-17",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-20",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-21",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-22",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-23",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-24",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-27",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-28",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-29",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-09-30",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-01",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-04",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-05",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-06",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-07",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-08",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-11",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-13",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-14",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-15",
+      "priceMin": 78,
+      "priceMax": 79
+    },
+    {
+      "date": "2020-10-18",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
+      "date": "2020-10-19",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
+      "date": "2020-10-20",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
+      "date": "2020-10-21",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
+      "date": "2020-10-25",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-10-26",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-10-27",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-10-28",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-10-29",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-01",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-02",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-03",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-04",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-05",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-08",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-09",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-10",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-11",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-12",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-15",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-16",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-17",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-22",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-23",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-11-24",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-11-25",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-11-26",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-11-29",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-11-30",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-12-01",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-12-02",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-12-03",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-12-06",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-12-07",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-12-08",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-12-13",
+      "priceMin": 70,
+      "priceMax": 71
+    },
+    {
+      "date": "2020-12-14",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-12-15",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-12-17",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-12-20",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-12-21",
+      "priceMin": 72,
+      "priceMax": 73
+    },
+    {
+      "date": "2020-12-22",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-12-23",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-12-24",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-12-27",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-12-28",
+      "priceMin": 74,
+      "priceMax": 75
+    },
+    {
+      "date": "2020-12-29",
+      "priceMin": 76,
+      "priceMax": 77
+    },
+    {
       "date": "2021-01-03",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-01-04",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-01-05",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-01-06",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-07",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-10",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-11",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-12",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-13",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-14",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-17",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-18",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-19",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-20",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-21",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-24",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-25",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-26",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-27",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-28",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-01-31",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-02-01",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-02-02",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-02-03",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-02-04",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-02-07",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-02-08",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-02-09",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-02-10",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-02-14",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-02-15",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-02-16",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-02-17",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-02-18",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-02-21",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-02-22",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-02-23",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-02-24",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-02-28",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-03-01",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-03-02",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-03-03",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-03-04",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-03-07",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-08",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-09",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-10",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-11",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-14",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-15",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-16",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-17",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-18",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-21",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-22",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-23",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-24",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-25",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-28",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-29",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-30",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-03-31",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-01",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-04",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-06",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-07",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-08",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-15",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-18",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-19",
-      "priceMin": 2.3,
-      "priceMax": 2.3
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-20",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-21",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-22",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-25",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-26",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-27",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-28",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-04-29",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-05-02",
-      "priceMin": 2.5,
-      "priceMax": 2.5
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-05-04",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-05-05",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-05-06",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-05-10",
-      "priceMin": 2.7,
-      "priceMax": 2.7
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-05-11",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-05-12",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-05-13",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-05-16",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-05-17",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-05-18",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-05-19",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-05-20",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-05-23",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-05-24",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-05-26",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-05-27",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-05-30",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-05-31",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-06-01",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-06-03",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-06-06",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-06-07",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-06-08",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-06-09",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-10",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-13",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-14",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-15",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-16",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-17",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-20",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-21",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-22",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-23",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-24",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-27",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-28",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-29",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-06-30",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-07-01",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-07-04",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-07-05",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-07-06",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-07-07",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-07-08",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-07-11",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-12",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-13",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-14",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-15",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-18",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-19",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-20",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-21",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-22",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-26",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-28",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-07-29",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-01",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-02",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-03",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-04",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-05",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-08",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-09",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-10",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-12",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-15",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-16",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-17",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-18",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-19",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-22",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-08-23",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-08-24",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-08-25",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-08-26",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-08-29",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-08-30",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-08-31",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-09-01",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 68,
+      "priceMax": 69
     },
     {
       "date": "2021-09-02",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 68,
+      "priceMax": 69
     },
     {
       "date": "2021-09-05",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 68,
+      "priceMax": 69
     },
     {
       "date": "2021-09-06",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 68,
+      "priceMax": 69
     },
     {
       "date": "2021-09-07",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-08",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-09",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-12",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-13",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-14",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-15",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-16",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-19",
-      "priceMin": 3,
-      "priceMax": 3
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-20",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-21",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-22",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-26",
-      "priceMin": 2.9,
-      "priceMax": 2.9
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-27",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-28",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 66,
+      "priceMax": 67
     },
     {
       "date": "2021-09-29",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 68,
+      "priceMax": 69
     },
     {
       "date": "2021-09-30",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 68,
+      "priceMax": 69
     },
     {
       "date": "2021-10-03",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 68,
+      "priceMax": 69
     },
     {
       "date": "2021-10-04",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 68,
+      "priceMax": 69
     },
     {
       "date": "2021-10-05",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 68,
+      "priceMax": 69
     },
     {
       "date": "2021-10-06",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 70,
+      "priceMax": 71
     },
     {
       "date": "2021-10-07",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 70,
+      "priceMax": 71
     },
     {
       "date": "2021-10-10",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 70,
+      "priceMax": 71
     },
     {
       "date": "2021-10-11",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 70,
+      "priceMax": 71
     },
     {
       "date": "2021-10-13",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 70,
+      "priceMax": 71
     },
     {
       "date": "2021-10-14",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-10-17",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-10-18",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-10-19",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 72,
+      "priceMax": 73
     },
     {
       "date": "2021-10-24",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-10-25",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-10-26",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-10-27",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-10-28",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 74,
+      "priceMax": 75
     },
     {
       "date": "2021-10-31",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-01",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-02",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-03",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-04",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-07",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-08",
-      "priceMin": 2.6,
-      "priceMax": 2.6
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-09",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-10",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-11",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 76,
+      "priceMax": 77
     },
     {
       "date": "2021-11-14",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-15",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-16",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-17",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-18",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-21",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-22",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-23",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-24",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-25",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-28",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-29",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-11-30",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-12-01",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-12-02",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-12-06",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-12-07",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-12-08",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 78,
+      "priceMax": 79
     },
     {
       "date": "2021-12-12",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-12-13",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-12-14",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-12-15",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-12-16",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 80,
+      "priceMax": 81
     },
     {
       "date": "2021-12-19",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 84,
+      "priceMax": 85
     },
     {
       "date": "2021-12-20",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 84,
+      "priceMax": 85
     },
     {
       "date": "2021-12-21",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 84,
+      "priceMax": 85
     },
     {
       "date": "2021-12-22",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 84,
+      "priceMax": 85
     },
     {
       "date": "2021-12-23",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 84,
+      "priceMax": 85
     },
     {
       "date": "2021-12-26",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 84,
+      "priceMax": 85
     },
     {
       "date": "2021-12-27",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 94,
+      "priceMax": 95
     },
     {
       "date": "2021-12-28",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 94,
+      "priceMax": 95
     },
     {
       "date": "2021-12-29",
-      "priceMin": 2.8,
-      "priceMax": 2.8
+      "priceMin": 94,
+      "priceMax": 95
     },
     {
       "date": "2022-01-03",

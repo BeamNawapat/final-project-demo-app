@@ -1,8 +1,8 @@
 {
-  "id": 23,
+  "id": 12,
   "productCode": "P11025",
-  "productName": "Eggs Size 0 Retail",
-  "category": "Livestock",
+  "productName": "Eggs Size 0",
+  "category": "Meat",
   "saleType": "Retail",
   "priceHistory": [
     {
